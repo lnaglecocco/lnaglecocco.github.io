@@ -11,7 +11,7 @@ title                    : "Liam Nagle-Cocco"
 title_separator          : "-"
 name                     : &name "Liam Nagle-Cocco"
 description              : &description "PhD student in physics at the University of Cambridge"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lnaglecocco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lnaglecocco/lnaglecocco.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liam Nagle-Cocco"
-  avatar           : "profile.png"
+  avatar           : "liam-300x300-1.jpg"
   bio              : "PhD student in physics at the University of Cambridge. Alumnus of University College London and the University of Washington."
   location         : "Cambridge, UK"
   employer         :
