@@ -11,30 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci in Physics, University College London, 2015-2019
+* Study abroad at University of Washington, September 2017 - June 2018
+* Ph.D in Physics, University of Cambridge, 2019-2023 (expected)
 
-Work experience
+Teaching experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Go4Code assistant teaching Python to year 9 students
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Autumn 2018: Returned to my old secondary school for a week assisting science teachers
+
+* October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator
+
+* March 2021-present: Part II (second year) undergraduate physics Python demonstrator
+
+* January 2023-present: Part IB (second year) undergraduate chemistry laboratory demonstrator
 
 Publications
 ======
@@ -48,12 +39,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+<!--Teaching-->
+<!--======-->
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
