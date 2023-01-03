@@ -20,4 +20,4 @@ Our study turns out to be the first variable-pressure study (to my knowledge) wh
 
 To build on this, the obvious steps to me seemed to repeat the study for LiNiO<sub>2</sub>, to see if pressure could nudge the local Jahn-Teller distortion (if indeed there is one; a controversial question) into ordering with a monoclinic distortion, and repeating the pressure study on NaNiO<sub>2</sub> at a synchrotron. The case for repeating at a synchrotron is that the flux would be much higher, meaning much a smaller sample could be used. This would allow us to far exceed our paltry 6 GPa in this study. Time constraints in my PhD prevented me from pursuing the LiNiO<sub>2</sub> idea, but in 2022 I was awarded beamtime at I15 at Diamond Light Source to study NaNiO<sub>2</sub> to far higher pressures using a diamond anvil cell, opening up the possibility for a sequel to this 2022 article. 
 
-<img src="images/NaNiO2_PhaseDiagram_Pearl.png" class="img-responsive" alt=""> </div>
+<div> <img src="images/NaNiO2_PhaseDiagram_Pearl.png" class="img-responsive" alt=""> </div>
