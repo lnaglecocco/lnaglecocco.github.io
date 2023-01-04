@@ -54,6 +54,8 @@ Conference attendance
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2018 (University College London, London, United Kingdom)
 
 **2019**
+- Materials and Molecular Modelling Hub Meeting 2019 (University College London, London, United Kingdom)
+  - worked as an assistant to the organisers
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
 
 **2020**
@@ -69,6 +71,8 @@ Conference attendance
 - Disordered Materials User Group Meeting 2022 (Cosener's House, Abingdon, United Kingdom)
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
 - ISIS Student Meeting 2022 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+  - gave a talk
 - FutureCat All Hands Meeting (Sheffield University, Sheffield, United Kingdom)
 - 2022 International Conference on Niobium Based Batteries (King's College, Cambridge, United Kingdom)
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2022 (University of Cambridge, Cambridge, United Kingdom)
+  - on the organising committee
