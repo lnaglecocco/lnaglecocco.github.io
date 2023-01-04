@@ -47,3 +47,28 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Conference attendance
+======
+
+**2018**
+- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2018 (University College London, London, United Kingdom)
+
+**2019**
+- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
+
+**2020**
+- ISIS neutron school 2020 (Cosener's House, Abingdon, United Kingdom)
+
+**2021**
+- European School of Magnetism 2021 (Universitatea Babeș-Bolyai, Cluj-Napoca, Romania)
+- ISIS Student Meeting 2021 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+
+**2022**
+- Gordon Research Seminar and Conference in Solid State Chemistry (Colby-Sawyer College, New Hampshire, United States of America)
+- Theoretical and Experimantal Magnetism Meeting 2022 (TEMM2022) (Cosener's House, Abingdon, United Kingdom)
+- Disordered Materials User Group Meeting 2022 (Cosener's House, Abingdon, United Kingdom)
+- UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
+- ISIS Student Meeting 2022 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+- FutureCat All Hands Meeting (Sheffield University, Sheffield, United Kingdom)
+- 2022 International Conference on Niobium Based Batteries (King's College, Cambridge, United Kingdom)
+- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2022 (University of Cambridge, Cambridge, United Kingdom)
