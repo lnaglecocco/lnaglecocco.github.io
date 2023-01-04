@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Site-wide configuration
+About me
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am a PhD student in physics at the University of Cambridge, working at the interface between materials physics and solid state chemistry. My PhD research focuses on the crystallographic, structural, electronic, and magnetic properties of Ni-rich battery cathode materials based on LiNiO<sub>2</sub> and NaNiO<sub>2</sub>. 
+
+Interests
+------
+- Solid state chemistry
+- Electrochemistry
+- Crystallography
+- Magnetism
+- Diffraction
+- X-ray absorption spectroscopy
+- Electron energy loss spectroscopy
 
