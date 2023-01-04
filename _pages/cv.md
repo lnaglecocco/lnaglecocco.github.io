@@ -17,15 +17,17 @@ Education
 
 Teaching experience
 ======
-* Summer 2017: Go4Code assistant teaching Python to year 9 students
+* Summer 2017: teaching Python to year 9 students, Go4Code, London
 
-* Autumn 2018: Returned to my old secondary school for a week assisting science teachers
+* March to June 2018: teaching assistant for electromagnetism course, University of Washington
 
-* October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator
+* Autumn 2018: a week assisting science teachers, Treorchy Comprehensive School
 
-* March 2021-present: Part II (second year) undergraduate physics Python demonstrator
+* October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator, University of Cambridge
 
-* January 2023-present: Part IB (second year) undergraduate chemistry laboratory demonstrator
+* March 2021-present: Part II (second year) undergraduate physics Python demonstrator, University of Cambridge
+
+* January 2023-present: Part IB (second year) undergraduate chemistry laboratory demonstrator, University of Cambridge
 
 Publications
 ======
