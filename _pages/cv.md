@@ -69,6 +69,7 @@ Conference attendance
 - Gordon Research Seminar and Conference in Solid State Chemistry (Colby-Sawyer College, New Hampshire, United States of America)
 - Theoretical and Experimantal Magnetism Meeting 2022 (TEMM2022) (Cosener's House, Abingdon, United Kingdom)
 - Disordered Materials User Group Meeting 2022 (Cosener's House, Abingdon, United Kingdom)
+- Winter Crystallography Meeting 2022 (Milton Hill House, Abingdon, United Kingdom)
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
 - ISIS Student Meeting 2022 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
   - gave a talk
