@@ -77,3 +77,12 @@ Conference attendance
 - 2022 International Conference on Niobium Based Batteries (King's College, Cambridge, United Kingdom)
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2022 (University of Cambridge, Cambridge, United Kingdom)
   - on the organising committee
+
+Internships
+======
+
+-August to September 2016: Surrey Satellite Technology Ltd. (Guildford, United Kingdom)
+-September 2016: Odgers Berndtson (London, United Kingdom)
+-June to August 2017: Department of Chemistry of UCL (London, United Kingdom)
+-June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
+-August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
