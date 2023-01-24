@@ -86,3 +86,4 @@ Internships
 - June to August 2017: Department of Chemistry of UCL (London, United Kingdom)
 - June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
 - August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
+- April 2023 to October 2023: Echion Technology (Cambridge, United Kingdom)
