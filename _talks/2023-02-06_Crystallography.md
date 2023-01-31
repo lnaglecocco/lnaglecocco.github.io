@@ -1,12 +1,12 @@
 ---
-title: "Jahn-Teller distortion in NaNiO<sub>2</sub> under pressure and temperature"
+title: "Jahn-Teller distortion in NaNiO<sub>2</sub>: a neutron PDF study"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-02-06_Crystallography
-venue: "Winter Crystallography Meeting 2022"
+venue: "Winter Crystallography Meeting 2023"
 date: 2023-02-06
 location: "Rutherford Appleton Laboratory, Harwell, United Kingdom"
 ---
 
-
+In this talk, I will discuss my ongoing variable-temperature Pair Distribution Function study on NaNiO<sub>2</sub>, using data obtained from the Spallation Neutron Source at Oak Ridge National Laboratory. 
 
