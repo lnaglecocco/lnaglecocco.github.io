@@ -34,19 +34,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 <!--Teaching-->
 <!--======-->
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Conference attendance
 ======
 
@@ -59,7 +59,7 @@ Conference attendance
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
 
 **2020**
-- ISIS neutron school 2020 (Cosener's House, Abingdon, United Kingdom)
+- ISIS neutron and muon school 2020 (Cosener's House, Abingdon, United Kingdom)
 
 **2021**
 - European School of Magnetism 2021 (Universitatea Babeș-Bolyai, Cluj-Napoca, Romania)
@@ -77,6 +77,10 @@ Conference attendance
 - 2022 International Conference on Niobium Based Batteries (King's College, Cambridge, United Kingdom)
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2022 (University of Cambridge, Cambridge, United Kingdom)
   - on the organising committee
+
+**2023**
+- Winter Crystallography Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+  - gave a talk
 
 Internships
 ======
