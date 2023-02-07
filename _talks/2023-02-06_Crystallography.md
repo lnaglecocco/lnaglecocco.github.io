@@ -8,5 +8,5 @@ date: 2023-02-06
 location: "Rutherford Appleton Laboratory, Harwell, United Kingdom"
 ---
 
-In this talk, I will discuss my ongoing variable-temperature Pair Distribution Function study on NaNiO<sub>2</sub>, using data obtained from the Spallation Neutron Source at Oak Ridge National Laboratory. 
+In this talk, I discussed my ongoing variable-temperature Pair Distribution Function study on NaNiO<sub>2</sub> using data obtained from the Spallation Neutron Source at Oak Ridge National Laboratory, and presented preliminary analysis of my EXAFS data on the material. 
 
