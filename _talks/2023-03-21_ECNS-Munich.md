@@ -18,7 +18,7 @@ Following the talk, I received questions from Pelayo Marin Villa, a PhD student 
 
 ![Presenting my talk](/images/2023-03-21_ECNS.jpg)
 
-*Photo credits to Dr Svemir Rudic (ISIS Neutron and Muon Source).**Photo credit for the above picture to Dr Svemir Rudic (ISIS Neutron and Muon Source).*
+*Photo credits to Dr Svemir Rudic (ISIS Neutron and Muon Source).*
 # Conference photo
 
 ![Conference photo](/images/2023-03-22_ECNS-group.jpg)
