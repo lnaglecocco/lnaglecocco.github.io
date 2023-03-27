@@ -14,6 +14,11 @@ My talk was the third talk of the Energy Materials session on day 2 of the confe
 
 Following the talk, I received questions from Pelayo Marin Villa, a PhD student at the University of the Basque Country (I paraphrase the question as "Would molecular dynamics help make sense of this?"), from the chair Alois Kuhn regarding comparison to battery material LiNiO<sub>2</sub>, and from others regarding the possibility for using inelastic neutron scattering to explore the transition and a query on the occurrence of stacking faults in the material. 
 
+# Speaking photo
+
 ![Presenting my talk](/images/2023-03-21_ECNS.jpg)
 
-*Photo credits to Dr Svemir Rudic (ISIS Neutron and Muon Source).*
+*Photo credits to Dr Svemir Rudic (ISIS Neutron and Muon Source).**Photo credit for the above picture to Dr Svemir Rudic (ISIS Neutron and Muon Source).*
+# Conference photo
+
+![Conference photo](/images/2023-03-22_ECNS-group.jpg)
