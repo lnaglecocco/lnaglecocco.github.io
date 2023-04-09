@@ -9,4 +9,4 @@ paperurl: 'https://arxiv.org/abs/2208.12197'
 ---
 **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Krishnakanth Sada, Clemens Ritter, Emannuelle Suard, Nicola D. Kelly, Cheng Liu, Clare P. Grey, Prabeer Barpanda, Siân E. Dutton.
 
-A neutron study of cryptomelane.
+Uploaded to the [https://arxiv.org/abs/2208.12197](Arxiv) on 25th August 2022, and currently undergoing an extensive re-write following reviewer suggestions from a journal.
