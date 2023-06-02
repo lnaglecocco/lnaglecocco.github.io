@@ -9,4 +9,4 @@ paperurl: 'N/A'
 ---
 EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Siân E. Dutton, Qiang Zhang
 
-Elise's study of the magnetocaloric properties of some lanthanide antimony oxides, which is currently under review at ACS Inorganic Chemistry as of submission on 9th April 2023.
+Elise's study of the magnetocaloric properties of some lanthanide antimony oxides, which was accepted at ACS Inorganic Chemistry as of 23rd May 2023.
