@@ -7,6 +7,6 @@ date: 2023-05-23
 venue: 'ACS Inorganic Chemistry (accepted)'
 paperurl: 'N/A'
 ---
-EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Siân E. Dutton, Qiang Zhang
+EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Qiang Zhang, Siân E. Dutton
 
 Elise's study of the magnetocaloric properties of some lanthanide antimony oxides, which was accepted at ACS Inorganic Chemistry as of 23rd May 2023.
