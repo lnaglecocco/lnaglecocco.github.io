@@ -5,7 +5,7 @@ permalink: /publication/2023_magnetocaloric
 excerpt: 'EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Qiang Zhang, Siân E. Dutton'
 date: 2023-05-23
 venue: 'ACS Inorganic Chemistry (accepted)'
-paperurl: 'N/A'
+paperurl: 'https://doi.org/10.1021/acs.inorgchem.3c01137'
 ---
 EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Qiang Zhang, Siân E. Dutton
 
