@@ -1,6 +1,6 @@
 ---
 title: "Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator"
-collection: #publications
+collection: publications
 permalink: /publication/2023_VanVleck
 excerpt: '**Liam A. V. Nagle-Cocco** and Siân E. Dutton.'
 date: 2023-08-02
