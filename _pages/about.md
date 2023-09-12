@@ -20,5 +20,5 @@ Interests
 - Magnetism
 - Diffraction
 - X-ray absorption spectroscopy
-- Electron energy loss spectroscopy
+- Data analysis
 
