@@ -59,7 +59,7 @@ Conference attendance
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
 
 **2020**
-- ISIS neutron and muon school 2020 (Cosener's House, Abingdon, United Kingdom)
+- ISIS Neutron and Muon School 2020 (Cosener's House, Abingdon, United Kingdom)
 
 **2021**
 - European School of Magnetism 2021 (Universitatea Babeș-Bolyai, Cluj-Napoca, Romania)
