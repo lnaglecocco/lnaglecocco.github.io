@@ -13,7 +13,7 @@ Education
 ======
 * MSci in Physics, University College London, 2015-2019
 * Study abroad at University of Washington, September 2017 - June 2018
-* Ph.D in Physics, University of Cambridge, 2019-2023 (expected)
+* Ph.D in Physics, University of Cambridge, October 2019 - April 2024 (expected)
 
 Teaching experience
 ======
@@ -81,6 +81,8 @@ Conference attendance
 **2023**
 - Winter Crystallography Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
   - gave a talk
+- European Conference on Neutron Scattering 2023 (Technical University of Munich, Munich, Germany)
+  - gave a talk
 
 Internships
 ======
@@ -90,4 +92,4 @@ Internships
 - June to August 2017: Department of Chemistry of UCL (London, United Kingdom)
 - June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
 - August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
-- April 2023 to October 2023: Echion Technology (Cambridge, United Kingdom)
+- April 2023 to October 2023: Echion Technologies (Cambridge, United Kingdom)
