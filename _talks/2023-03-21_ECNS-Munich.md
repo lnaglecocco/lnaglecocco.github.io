@@ -14,6 +14,8 @@ My talk was the third talk of the Energy Materials session on day 2 of the confe
 
 Following the talk, I received questions from Pelayo Marin Villa, a PhD student at the University of the Basque Country (I paraphrase the question as "Would molecular dynamics help make sense of this?"), from the chair Alois Kuhn regarding comparison to battery material LiNiO<sub>2</sub>, and from others regarding the possibility for using inelastic neutron scattering to explore the transition and a query on the occurrence of stacking faults in the material. 
 
+[More details here](https://indico.frm2.tum.de/event/263/contributions/3613/)
+
 # Speaking photo
 
 ![Presenting my talk](/images/2023-03-21_ECNS.jpg)
