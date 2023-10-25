@@ -83,6 +83,8 @@ Conference attendance
   - gave a talk
 - European Conference on Neutron Scattering 2023 (Technical University of Munich, Munich, Germany)
   - gave a talk
+- ISIS Student Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+  - chaired a session
 
 Internships
 ======
