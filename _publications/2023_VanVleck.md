@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_VanVleck
 excerpt: '**Liam A. V. Nagle-Cocco** and Siân E. Dutton.'
 date: 2023-10-30
-venue: 'Available on Arxiv while under review'
+venue: 'Arxiv while under review'
 paperurl: 'https://arxiv.org/abs/2310.18255'
 ---
 **Liam A. V. Nagle-Cocco** and Siân E. Dutton.
