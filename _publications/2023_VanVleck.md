@@ -9,6 +9,6 @@ paperurl: 'https://arxiv.org/abs/2310.18255'
 ---
 **Liam A. V. Nagle-Cocco** and Siân E. Dutton.
 
-A method paper for a Python script I wrote for calculating the Van Vleck distortion modes, which can be found on [https://github.com/lnaglecocco/VanVleckCalculator](my GitHub). This project began as part of my analysis of supercells producted by "big box analysis" of pair distribution function data on NaNiO<sub>2</sub>. 
+A method paper for a Python script I wrote for calculating the Van Vleck distortion modes, which can be found on [my GitHub](https://github.com/lnaglecocco/VanVleckCalculator). This project began as part of my analysis of supercells producted by "big box analysis" of pair distribution function data on NaNiO<sub>2</sub>. 
 
 Submitted on 2nd August 2023 to the IUCr Journal of Applied Crystallography, currently under review. Comments were received, and a response submitted to the journal on 27th October 2023.
