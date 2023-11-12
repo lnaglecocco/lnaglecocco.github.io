@@ -9,7 +9,7 @@ paperurl: 'https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345'
 ---
 **Liam A. V. Nagle-Cocco**, Craig L. Bull, Christopher J. Ridley, and Siân E. Dutton.
 
-Published on 3rd March 2022, and available [https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345](here).
+Published on 3rd March 2022, and available [here](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345).
 
 # Story
 
