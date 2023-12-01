@@ -85,6 +85,8 @@ Conference attendance
   - gave a talk
 - ISIS Student Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
   - chaired a session
+- Materials Research Society Fall Meeting 2023 (Sheraton Hotel and Hynes Convention Centre, Boston, United States of America)
+  - gave a talk
 
 Internships
 ======
