@@ -9,4 +9,4 @@ paperurl: 'https://doi.org/10.1021/acs.inorgchem.3c01137'
 ---
 EliseAnne C. Koskelo, Nicola D. Kelly, **Liam A. V. Nagle-Cocco**, Joshua D. Bocarsly, Paromita Mukherjee, Cheng Liu, Qiang Zhang, Siân E. Dutton
 
-Elise was a masters student in the Dutton Group during the second year of my PhD. This work was her study of the magnetocaloric properties of some lanthanide antimony oxides.
+Elise was a masters student in the Dutton Group during the second year of my PhD. This work was her study of the magnetocaloric properties of some lanthanide antimony oxides, and was published in [ACS Inorganic Chemistry](https://doi.org/10.1021/acs.inorgchem.3c01137) on 16th June 2023.
