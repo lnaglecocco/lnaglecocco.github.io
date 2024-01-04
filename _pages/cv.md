@@ -25,9 +25,9 @@ Teaching experience
 
 * October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator, University of Cambridge
 
-* March 2021-present: Part II (second year) undergraduate physics Python demonstrator, University of Cambridge
+* March 2021-December 2022: Part II (second year) undergraduate physics Python demonstrator, University of Cambridge
 
-* January 2023-present: Part IB (second year) undergraduate chemistry laboratory demonstrator, University of Cambridge
+* January-April 2023: Part IB (second year) undergraduate chemistry laboratory demonstrator, University of Cambridge
 
 Publications
 ======
