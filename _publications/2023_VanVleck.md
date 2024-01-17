@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023_VanVleck
 excerpt: '**Liam A. V. Nagle-Cocco** and Siân E. Dutton'
 date: 2023-12-22
-venue: 'Journal of Applied Crystallography'
+venue: 'IUCr Journal of Applied Crystallography'
 paperurl: 'https://scripts.iucr.org/cgi-bin/paper?S1600576723009925'
 ---
 **Liam A. V. Nagle-Cocco** and Siân E. Dutton.
