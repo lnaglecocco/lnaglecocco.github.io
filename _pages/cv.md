@@ -88,6 +88,9 @@ Conference attendance
 - Materials Research Society Fall Meeting 2023 (Sheraton Hotel and Hynes Convention Centre, Boston, United States of America)
   - gave a talk
 
+**2024**
+- UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
+
 Internships
 ======
 
