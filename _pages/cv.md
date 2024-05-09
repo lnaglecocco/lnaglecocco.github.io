@@ -90,6 +90,8 @@ Conference attendance
 
 **2024**
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
+- ISIS Roadshow 2024 (Cardiff University, Cardiff, United Kingdom)
+  - gave a talk
 
 Internships
 ======
