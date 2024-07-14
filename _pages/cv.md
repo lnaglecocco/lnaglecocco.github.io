@@ -51,20 +51,20 @@ Talks
 Conference attendance
 ======
 
-**2018**
-- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2018 (University College London, London, United Kingdom)
+**2024**
+- UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
+- ISIS Roadshow 2024 (Cardiff University, Cardiff, United Kingdom)
+  - gave a talk
 
-**2019**
-- Materials and Molecular Modelling Hub Meeting 2019 (University College London, London, United Kingdom)
-  - worked as an assistant to the organisers
-- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
-
-**2020**
-- ISIS Neutron and Muon School 2020 (Cosener's House, Abingdon, United Kingdom)
-
-**2021**
-- European School of Magnetism 2021 (Universitatea Babeș-Bolyai, Cluj-Napoca, Romania)
-- ISIS Student Meeting 2021 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+**2023**
+- Winter Crystallography Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+  - gave a talk
+- European Conference on Neutron Scattering 2023 (Technical University of Munich, Munich, Germany)
+  - gave a talk
+- ISIS Student Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
+  - chaired a session
+- Materials Research Society Fall Meeting 2023 (Sheraton Hotel and Hynes Convention Centre, Boston, United States of America)
+  - gave a talk
 
 **2022**
 - Gordon Research Seminar and Conference in Solid State Chemistry (Colby-Sawyer College, New Hampshire, United States of America)
@@ -79,20 +79,20 @@ Conference attendance
 - Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2022 (University of Cambridge, Cambridge, United Kingdom)
   - on the organising committee
 
-**2023**
-- Winter Crystallography Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
-  - gave a talk
-- European Conference on Neutron Scattering 2023 (Technical University of Munich, Munich, Germany)
-  - gave a talk
-- ISIS Student Meeting 2023 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
-  - chaired a session
-- Materials Research Society Fall Meeting 2023 (Sheraton Hotel and Hynes Convention Centre, Boston, United States of America)
-  - gave a talk
+**2021**
+- European School of Magnetism 2021 (Universitatea Babeș-Bolyai, Cluj-Napoca, Romania)
+- ISIS Student Meeting 2021 (Rutherford Appleton Laboratory, Didcot, United Kingdom)
 
-**2024**
-- UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
-- ISIS Roadshow 2024 (Cardiff University, Cardiff, United Kingdom)
-  - gave a talk
+**2020**
+- ISIS Neutron and Muon School 2020 (Cosener's House, Abingdon, United Kingdom)
+
+**2019**
+- Materials and Molecular Modelling Hub Meeting 2019 (University College London, London, United Kingdom)
+  - worked as an assistant to the organisers
+- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2019 (Liverpool University, Liverpool, United Kingdom)
+
+**2018**
+- Royal Society of Chemistry Solid State Chemistry Group Christmas Meeting 2018 (University College London, London, United Kingdom)
 
 Internships
 ======
