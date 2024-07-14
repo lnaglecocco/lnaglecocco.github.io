@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a PhD student in physics at the University of Cambridge, working at the interface between materials physics and solid state chemistry. My PhD research focuses on the Jahn-Teller effect under varying temperature and pressure in bulk materials, particularly battery cathode materials.
+I am a postdoctoral research associate in the Grey Group at the University of Cambridge, working on crystallography and magnetism of battery materials. I obtained my PhD in physics in the Dutton Group at the University of Cambridge, working at the interface between materials physics and solid state chemistry. My PhD research focused on the Jahn-Teller effect under varying temperature and pressure.
 
 Interests
 ------
