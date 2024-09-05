@@ -53,18 +53,11 @@ Publications
 
 **2023**
 
-<!-- -->
 3. Koskelo, E.C.; Kelly, N.D.; **Nagle-Cocco, L.A.V.**; Bocarsly, J.D.; Mukherjee, P.M.; Liu, C.; Zhang, Q.; Dutton, S.E. Magnetic and magnetocaloric properties of frustrated fcc lanthanide oxides A<sub>2</sub>LnSbO<sub>6</sub>. [_ACS Inorganic Chemistry_. 2023, 62, 26, 10317–10328.](https://doi.org/10.1021/acs.inorgchem.3c01137)
-
-<!-- -->
 
 **2022**
 
-<!-- -->
-
 2. Saleh, A.A.; Sayed, D.M.; **Nagle-Cocco, L.A.V.**; Divitini, G.; Ghanem, L.G.; Ducati, C; Allam, N.K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
-
-<!-- -->
 
 1. **Nagle-Cocco, L.A.V.**; Bull, C.L.; Ridley, C.J.; Dutton, S.E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345)
 
