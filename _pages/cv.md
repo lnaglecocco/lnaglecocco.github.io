@@ -35,9 +35,9 @@ Publications
 
 **Preprints**
 
-10. **Nagle-Cocco, L.A.V.**; Bocarsly, J.D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N.D.; Liu, C.; Grey, C.P.; Barpanda, P.; Dutton, S.E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
+ 10. **Nagle-Cocco, L.A.V.**; Bocarsly, J.D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N.D.; Liu, C.; Grey, C.P.; Barpanda, P.; Dutton, S.E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
 
-9. **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [arXiv](https://arxiv.org/abs/2408.01267)
+ 9. **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [arXiv](https://arxiv.org/abs/2408.01267)
 
 **2024**
 
