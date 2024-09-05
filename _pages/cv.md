@@ -41,9 +41,9 @@ Publications
 
 **2024**
 
-8. [Khan, S.; Aw, E. S. Y.; **Nagle-Cocco, L.A.V.**; Ghosh, S.; Sud, A.; Subhan, M. K. B.; Xue, Z.; Freeman, C.; Sagkovits, D.; Gutierrez-Llorente, A.; Verzhbitskiy, I.; Arroo, D. M.; Zollitsch, C. W.; Eda, G.; Santos, E. J. G.; Dutton, S. E.; Bramwell, S. T.; Howard, C. A.; Kurebayashi, H. Alkali-ion intercalated van der Waals layered magnet Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub>. _Wiley Advanced Materials_. 2024.]
+8. [Khan, S.; Aw, E. S. Y.; **Nagle-Cocco, L.A.V.**; Ghosh, S.; Sud, A.; Subhan, M. K. B.; Xue, Z.; Freeman, C.; Sagkovits, D.; Gutierrez-Llorente, A.; Verzhbitskiy, I.; Arroo, D. M.; Zollitsch, C. W.; Eda, G.; Santos, E. J. G.; Dutton, S. E.; Bramwell, S. T.; Howard, C. A.; Kurebayashi, H. Alkali-ion intercalated van der Waals layered magnet Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub>. _Wiley Advanced Materials_. 2024.](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202400270)
 
-7. [Harbourne, E. A.; Barker, H.; Guéroult, Q.; Cattermull, J.; **Nagle-Cocco , L.A.V.**; Roth, N.; Evans, J. S. O.; Keen, D. A.; and Goodwin, A. L.; Local structure and dynamics in MPt(CN)<sub>6</sub> Prussian blue analogues. _ACS Chemistry of Materials_. 2024, 36, 11, 5796–5804.]
+7. [Harbourne, E. A.; Barker, H.; Guéroult, Q.; Cattermull, J.; **Nagle-Cocco , L.A.V.**; Roth, N.; Evans, J. S. O.; Keen, D. A.; and Goodwin, A. L.; Local structure and dynamics in MPt(CN)<sub>6</sub> Prussian blue analogues. _ACS Chemistry of Materials_. 2024, 36, 11, 5796–5804.](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c01013)
 
 6. [Ye, C.; Lampronti, G. I.; McHugh, L. N.; Castillo-Blas, C.; Kono, A.; Chen, C.; Robertson, G. P.; **Nagle-Cocco, L.A.V.**; Xu, W.; Martinez, V.; Brekalo, I.; Uzarevic, K.; Xue, W.; Kolodzeiski, P.; Das, C.; Henke, S.; Chater, P.; Keen, D. A.; Dutton, S. E.; Bennett, T. D. Mechanically-induced glass formation of two-dimensional hybrid organic-inorganic perovskites. _RSC Chemical Science_. 2024, 15, 7198–7205.](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00905c)
 
