@@ -33,6 +33,32 @@ Teaching experience
 Publications
 ======
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publication List</title>
+    <style>
+        /* Reset CSS styles for ordered lists */
+        ol {
+            counter-reset: item;
+            list-style-type: none;
+            padding: 0;
+        }
+        ol li {
+            counter-increment: item;
+            position: relative;
+        }
+        ol li::before {
+            content: counter(item) ". ";
+            position: absolute;
+            left: -2em; /* Adjust as needed to fit your layout */
+            width: 2em;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+
 <h2>Preprints</h2>
 <ol start="10">
     <li><strong>Nagle-Cocco, L.A.V.</strong>; Bocarsly, J.D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N.D.; Liu, C.; Grey, C.P.; Barpanda, P.; Dutton, S.E. <a href="https://arxiv.org/abs/2208.12197">Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>.</a></li>
