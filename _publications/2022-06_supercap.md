@@ -9,7 +9,7 @@ paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122'
 ---
 Amina A. Saleh, Doha M. Sayed, **Liam A. V. Nagle-Cocco**, Giorgio Divitini, Loujain G. Ghanem, Caterina Ducati, and Nageh K. Allam.
 
-Published on 6th June 2022, and available [https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122](here).
+Published on 6th June 2022, and available [here](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122).
 
 # Story
 
