@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liam Nagle-Cocco"
 title_separator          : "-"
 name                     : &name "Liam Nagle-Cocco"
-description              : &description "PhD student in physics at the University of Cambridge"
+description              : &description "Postdoctoral researcher in solid state chemistry"
 url                      : https://lnaglecocco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lnaglecocco/lnaglecocco.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liam Nagle-Cocco"
   avatar           : "liam-300x300-1.jpg"
-  bio              : "PhD student in physics at the University of Cambridge. Alumnus of University College London and the University of Washington."
+  bio              : "Postdoctoral researcher in solid state chemistry. Alumnus of University College London, the University of Washington, and the University of Cambridge."
   location         : "Cambridge, UK"
   employer         :
   pubmed           : 
