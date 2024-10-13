@@ -11,7 +11,7 @@ author_profile: true
 
 **Preprints**
 
-10: **Nagle-Cocco, L.A.V.**; Bocarsly, J.D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N.D.; Liu, C.; Grey, C.P.; Barpanda, P.; Dutton, S.E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
+10: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
 
 [comment]: <> (10: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>.)
 
@@ -27,14 +27,14 @@ author_profile: true
 
 5: Genreith-Schriever, A. R.; Alexei, A.; Phillips, G.; Coates, C. S.; **Nagle-Cocco, L.A.V.**; Bocarsly, J. D.; Sayed, F. N.; Dutton, S.E.; Grey, C. P. Jahn–Teller distortions and phase transitions in LiNiO<sub>2</sub>: Insights from Ab-initio Molecular Dynamics and variable-temperature X ray diffraction. [_ACS Chemistry of Materials_. 2024, 36, 2289–2303.](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02413)
 
-4: **Nagle-Cocco, L.A.V.**; Dutton, S.E. Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator. [_IUCr Journal of Applied Crystallography_. 2024, 57, 1, 20–33.](https://scripts.iucr.org/cgi-bin/paper?S1600576723009925)
+4: **Nagle-Cocco, L. A. V.**; Dutton, S. E. Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator. [_IUCr Journal of Applied Crystallography_. 2024, 57, 1, 20–33.](https://scripts.iucr.org/cgi-bin/paper?S1600576723009925)
 
 **2023**
 
-3: Koskelo, E.C.; Kelly, N.D.; **Nagle-Cocco, L.A.V.**; Bocarsly, J.D.; Mukherjee, P.M.; Liu, C.; Zhang, Q.; Dutton, S.E. Magnetic and magnetocaloric properties of frustrated fcc lanthanide oxides A<sub>2</sub>LnSbO<sub>6</sub>. [_ACS Inorganic Chemistry_. 2023, 62, 26, 10317–10328.](https://doi.org/10.1021/acs.inorgchem.3c01137)
+3: Koskelo, E. C.; Kelly, N. D.; **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Mukherjee, P. M.; Liu, C.; Zhang, Q.; Dutton, S. E. Magnetic and magnetocaloric properties of frustrated fcc lanthanide oxides A<sub>2</sub>LnSbO<sub>6</sub>. [_ACS Inorganic Chemistry_. 2023, 62, 26, 10317–10328.](https://doi.org/10.1021/acs.inorgchem.3c01137)
 
 **2022**
 
-2: Saleh, A.A.; Sayed, D.M.; **Nagle-Cocco, L.A.V.**; Divitini, G.; Ghanem, L.G.; Ducati, C; Allam, N.K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
+2: Saleh, A. A.; Sayed, D. M.; **Nagle-Cocco, L. A. V.**; Divitini, G.; Ghanem, L. G.; Ducati, C; Allam, N. K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
 
-1: **Nagle-Cocco, L.A.V.**; Bull, C.L.; Ridley, C.J.; Dutton, S.E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345)
+1: **Nagle-Cocco, L. A. V.**; Bull, C. L.; Ridley, C. J.; Dutton, S. E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345)
