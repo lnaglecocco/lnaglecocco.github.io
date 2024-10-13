@@ -17,7 +17,7 @@ author_profile: true
 
 **2024**
 
-9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_In press at the Journal of the American Chemical Society._ 2024.](https://doi.org/10.1021/jacs.4c09922)
+9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society._ 2024.](https://doi.org/10.1021/jacs.4c09922)
 
 8: Khan, S.; Aw, E. S. Y.; **Nagle-Cocco, L.A.V.**; Ghosh, S.; Sud, A.; Subhan, M. K. B.; Xue, Z.; Freeman, C.; Sagkovits, D.; Gutierrez-Llorente, A.; Verzhbitskiy, I.; Arroo, D. M.; Zollitsch, C. W.; Eda, G.; Santos, E. J. G.; Dutton, S. E.; Bramwell, S. T.; Howard, C. A.; Kurebayashi, H. Alkali-ion intercalated van der Waals layered magnet Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub>. [_Wiley Advanced Materials_. 2024.](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202400270)
 
