@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liam Nagle-Cocco"
 title_separator          : "-"
 name                     : &name "Liam Nagle-Cocco"
-description              : &description "Postdoctoral researcher in solid state chemistry"
+description              : &description "Postdoctoral researcher"
 url                      : https://lnaglecocco.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lnaglecocco/lnaglecocco.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Liam Nagle-Cocco"
   avatar           : "liam-300x300-1.jpg"
   bio              : "Postdoctoral researcher in solid state chemistry. Alumnus of University College London, the University of Washington, and the University of Cambridge."
-  location         : "Cambridge, UK"
-  employer         :
+  location         : "Stanford, California, USA"
+  employer         : "SLAC, Stanford University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2TzUGhcAAAAJ&hl=en&oi=ao"
-  email            : "lavn2@cam.ac.uk"
+  email            : "lnc@cam.ac.uk"
   researchgate     :  
   uri              :
   bitbucket        :

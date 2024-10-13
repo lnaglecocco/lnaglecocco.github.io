@@ -14,7 +14,8 @@ Education
 * MSci in Physics, University College London, 2015-2019
 * Study abroad at University of Washington, September 2017 - June 2018
 * PhD in Physics, University of Cambridge, October 2019 - June 2024
-* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - present
+* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
+* Postdoctoral research associate, Strange Group, SLAC at Stanford Unviersity, October 2024 - present
 
 Teaching experience
 ======
