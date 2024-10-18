@@ -19,6 +19,8 @@ author_profile: true
 
 [comment]: <> (10: Tacconis, C.; Hoffmann Petersen, M.; **Nagle-Cocco, L. A. V.**; Vincent, S.; Dey, S.; Neuefeind, J. C.; Grey, C. P.; Garcia Lastra, J. M.; Dutton, S.E. Evaluating the disorder of MgM<sub>B</sub>2O<sub>5</sub> (M= Fe,Mn<sub>0.5</sub>Fe<sub>0.5</sub>, Mn) through combined experimental and computational efforts.)
 
+[comment]: <> (10: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Grey, C. P.; Dutton, S.E. Structural properties of desodiated NaNiO<sub>2</sub>.)
+
 **2024**
 
 9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society._ 2024.](https://doi.org/10.1021/jacs.4c09922)
