@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I am a postdoctoral researcher in the [Strange Group](https://web.slac.stanford.edu/strangegroup) at the [Stanford Linear Accelerator Center (SLAC)](https://www6.slac.stanford.edu/) at Stanford University, working on materials characterisation for water-splitting applications as part of the [H2NEW consortium](https://h2new.energy.gov/). I obtained my PhD in physics in the [Dutton Group](duttongroup.weebly.com) at the University of Cambridge, working at the interface between materials physics and solid state chemistry.
+I am a postdoctoral researcher in the [Strange Group](https://web.slac.stanford.edu/strangegroup) at the [Stanford Synchrotron Radiation Lightsource (SSRL)](https://www-ssrl.slac.stanford.edu/) at Stanford University, working on materials characterisation for water-splitting applications as part of the [H2NEW consortium](https://h2new.energy.gov/). I obtained my PhD in physics in the [Dutton Group](duttongroup.weebly.com) at the University of Cambridge, working at the interface between materials physics and solid state chemistry.
 
 Interests
 ------
