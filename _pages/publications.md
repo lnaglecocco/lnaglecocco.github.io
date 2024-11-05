@@ -21,6 +21,8 @@ author_profile: true
 
 [comment]: <> (10: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Sayed, F. N.; Grey, C. P.; Dutton, S.E. Structural properties of desodiated NaNiO<sub>2</sub>.)
 
+[comment]: <> (10: Strange, N. A.; **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride.)
+
 **2024**
 
 9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society._ 2024.](https://doi.org/10.1021/jacs.4c09922)
