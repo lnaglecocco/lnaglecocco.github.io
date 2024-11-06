@@ -19,7 +19,9 @@ author_profile: true
 
 [comment]: <> (10: Tacconis, C.; Hoffmann Petersen, M.; **Nagle-Cocco, L. A. V.**; Vincent, S.; Dey, S.; Neuefeind, J. C.; Grey, C. P.; Garcia Lastra, J. M.; Dutton, S.E. Evaluating the disorder of MgM<sub>B</sub>2O<sub>5</sub> (M= Fe,Mn<sub>0.5</sub>Fe<sub>0.5</sub>, Mn) through combined experimental and computational efforts.)
 
-[comment]: <> (10: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Grey, C. P.; Dutton, S.E. Structural properties of desodiated NaNiO<sub>2</sub>.)
+[comment]: <> (10: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Sayed, F. N.; Grey, C. P.; Dutton, S.E. Structural properties of desodiated NaNiO<sub>2</sub>.)
+
+[comment]: <> (10: Strange, N. A.; **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride.)
 
 **2024**
 
