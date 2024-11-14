@@ -25,7 +25,7 @@ author_profile: true
 
 [comment]: <> (10: Crain, C. C.; Nygren, E.; **Nagle-Cocco, L. A. V.**; Stone, K. H.; Shulda, S.; Ginley, D. S.; Strange, N. A.; Bell, R. T. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
-[comment]: <> (10: Strange, N. A.; **Nagle-Cocco, L. A. V.**, Wexler, R. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction.)
+[comment]: <> (10: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction.)
 
 **2024**
 
