@@ -23,7 +23,7 @@ author_profile: true
 
 [comment]: <> (10: Strange, N. A.; **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride.)
 
-[comment]: <> (10: Crain, C. C.; Nygren, E.; **Nagle-Cocco, L. A. V.**; Stone, K. H.; Shulda, S.; Ginley, D. S.; Strange, N. A.; Bell, R. T. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
+[comment]: <> (10: Crain, C. C.; Nygren, E.; **Nagle-Cocco, L. A. V.**; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
 [comment]: <> (10: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction.)
 
