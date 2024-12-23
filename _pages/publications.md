@@ -9,23 +9,23 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-**Preprints**
-
-10: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
-
-[comment]: <> (10: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>.)
-
 [comment]: <> (10: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries.)
 
 [comment]: <> (10: Tacconis, C.; Hoffmann Petersen, M.; **Nagle-Cocco, L. A. V.**; Vincent, S.; Dey, S.; Neuefeind, J. C.; Grey, C. P.; Garcia Lastra, J. M.; Dutton, S.E. Evaluating the disorder of MgM<sub>B</sub>2O<sub>5</sub> (M= Fe,Mn<sub>0.5</sub>Fe<sub>0.5</sub>, Mn) through combined experimental and computational efforts.)
-
-[comment]: <> (10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Dynamic Stabilisation of the Charge- and Na Vacancy-Ordered Desodiated Phase: Na<sub>2/3</sub>NiO<sub>2</sub>.)
 
 [comment]: <> (10: Strange, N. A.; **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride.)
 
 [comment]: <> (10: Crain, C. C.; Nygren, E.; **Nagle-Cocco, L. A. V.**; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
 [comment]: <> (10: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction.)
+
+[comment]: <> (10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Dynamic Stabilisation of the Charge- and Na Vacancy-Ordered Desodiated Phase: Na<sub>2/3</sub>NiO<sub>2</sub>.)
+
+**Preprints**
+
+10: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
+
+[comment]: <> (10: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>.)
 
 **2024**
 
