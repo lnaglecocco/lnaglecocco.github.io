@@ -21,7 +21,7 @@ author_profile: true
 
 **Preprints**
 
-[comment]: <> (12: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>.)
+[comment]: <> (12: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [arXiv](https://arxiv.org/abs/2208.12197))
 
 11: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Dynamic Stabilisation of the Charge- and Na Vacancy-Ordered Desodiated Phase: Na<sub>2/3</sub>NiO<sub>2</sub>. [chemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6785152f6dde43c90856f8c4)
 
