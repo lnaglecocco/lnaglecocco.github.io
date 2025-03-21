@@ -23,7 +23,9 @@ author_profile: true
 
 11: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [arXiv](https://arxiv.org/abs/2208.12197)
 
-10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Dynamic Stabilisation of the Charge- and Na Vacancy-Ordered Desodiated Phase: Na<sub>2/3</sub>NiO<sub>2</sub>. [chemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6785152f6dde43c90856f8c4)
+**2025**
+
+10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Dynamic Stabilisation of the Charge- and Na Vacancy-Ordered Desodiated Phase: Na<sub>2/3</sub>NiO<sub>2</sub>. _ACS Chemistry of Materials_ (in press) [[chemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6785152f6dde43c90856f8c4)]
 
 **2024**
 
