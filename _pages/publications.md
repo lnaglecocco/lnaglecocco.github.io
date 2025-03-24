@@ -23,9 +23,9 @@ author_profile: true
 
 **2025**
 
-11: **Nagle-Cocco, L.A.V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S.E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. _IoP Journal of Physics: Condensed Matter_ (in press) 
+11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. _IoP Journal of Physics: Condensed Matter_ (in press) 
 
-10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S.E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
+10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S. E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
 
 **2024**
 
