@@ -21,7 +21,7 @@ author_profile: true
 
 12: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
-11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. _IoP Journal of Physics: Condensed Matter_ (in press)  [[arxiv](https://arxiv.org/abs/2503.18833)]
+11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. _IoP Journal of Physics: Condensed Matter_ (in press)  [[arXiv](https://arxiv.org/abs/2503.18833)]
 
 **2025**
 
