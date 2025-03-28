@@ -15,7 +15,7 @@ author_profile: true
 
 [comment]: <> (12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. IUCr Acta Crystallographica Section E. 2025.)
 
-[comment]: <> (12: Strange, N. A.; **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. IUCr Acta Crystallographica Section B. 2025.)
+[comment]: <> (12: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. IUCr Acta Crystallographica Section B. 2025.)
 
 **Preprints**
 
