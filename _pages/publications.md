@@ -15,7 +15,7 @@ author_profile: true
 
 [comment]: <> (12: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
-[comment]: <> (12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. IUCr Acta Crystallographica Section E. 2025.)
+[comment]: <> (12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. _IUCr Acta Crystallographica Section E_. 2025.)
 
 [comment]: <> (12: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. IUCr Acta Crystallographica Section B. 2025.)
 
