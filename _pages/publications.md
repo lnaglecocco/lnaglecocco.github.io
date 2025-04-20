@@ -13,6 +13,8 @@ author_profile: true
 
 [comment]: <> (13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Vettori, K.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in Highly Ordered LiNiO<sub>2</sub>.)
 
+[comment]: <> (13: Berardi, F.; **Nagle-Cocco, L. A. V.**; Dutton, S.E. Magnetic and magnetocaloric properties of frustrated niobate lanthanide oxides.)
+
 [comment]: <> (13: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
 [comment]: <> (13: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. IUCr Acta Crystallographica Section B. 2025.)
