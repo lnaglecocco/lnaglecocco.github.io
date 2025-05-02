@@ -11,7 +11,7 @@ author_profile: true
 
 [comment]: <> (13: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries.)
 
-[comment]: <> (13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Vettori, K.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in Highly Ordered LiNiO<sub>2</sub>.)
+[comment]: <> (13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Brezesinski, T.; Janek, J.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>.)
 
 [comment]: <> (13: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides.)
 
