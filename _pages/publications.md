@@ -29,9 +29,9 @@ author_profile: true
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. (Accepted)](https://doi.org/10.1107/S2056989025003512)
 
-11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
+11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
 
-10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S. E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
+10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S. E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025, 37(7), 2581-2591.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
 
 **2024**
 
