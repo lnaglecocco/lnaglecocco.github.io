@@ -27,7 +27,7 @@ author_profile: true
 
 **2025**
 
-12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. (Accepted)](https://doi.org/10.1107/S2056989025003512)
+12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025.](https://doi.org/10.1107/S2056989025003512)
 
 11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
 
