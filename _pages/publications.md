@@ -11,9 +11,9 @@ author_profile: true
 
 [comment]: <> (X: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
-[comment]: <> (17: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides.)
+[comment]: <> (17: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration.)
 
-[comment]: <> (16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration.)
+[comment]: <> (16: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides.)
 
 [comment]: <> (15: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Materials. 2025.)
 
