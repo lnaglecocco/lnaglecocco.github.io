@@ -33,6 +33,8 @@ Teaching experience
 
 * January-April 2023: Part IB (second year) undergraduate chemistry laboratory demonstrator, University of Cambridge
 
+* Summer 2025: mentor to SULI summer intern Madeline Port (rising junior at UPenn), Stanford University/SLAC
+
 Conference attendance
 ======
 
