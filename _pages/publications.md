@@ -29,7 +29,7 @@ author_profile: true
 
 **2025**
 
-13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Brezesinski, T.; Janek, J.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in Defect-free LiNiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. In press.
+13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Brezesinski, T.; Janek, J.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in Defect-free LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025.](https://doi.org/10.1021/jacs.5c07435). 
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025, 81(6), 530-533.](https://doi.org/10.1107/S2056989025003512)
 
