@@ -21,15 +21,15 @@ author_profile: true
 
 [comment]: <> (15: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
 
-[comment]: <> (14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. ACS Inorganic Chemistry. 2025.)
-
 **Preprints**
 
 **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 **2025**
 
-13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025.](https://doi.org/10.1021/jacs.5c07435). 
+14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. _ACS Inorganic Chemistry. In press._
+
+13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025.](https://doi.org/10.1021/jacs.5c07435)
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025, 81(6), 530-533.](https://doi.org/10.1107/S2056989025003512)
 
