@@ -27,7 +27,7 @@ author_profile: true
 
 **2025**
 
-14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. _ACS Inorganic Chemistry. In press._
+14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. _ACS Inorganic Chemistry. In press._ [[arXiv](http://arxiv.org/abs/2508.03874)]
 
 13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025.](https://doi.org/10.1021/jacs.5c07435)
 
