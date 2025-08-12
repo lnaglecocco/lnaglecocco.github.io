@@ -9,9 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[comment]: <> (X: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
-
 [comment]: <> (X: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
+
+[comment]: <> (19: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
 
 [comment]: <> (18: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
