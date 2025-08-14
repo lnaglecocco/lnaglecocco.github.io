@@ -21,7 +21,7 @@ author_profile: true
 
 [comment]: <> (16: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. ACS Journal of the American Chemical Society. 2025.)
 
-[comment]: <> (15: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration.)
+[comment]: <> (15: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. ACS Chemistry of Materials. 2025.)
 
 **Preprints**
 
