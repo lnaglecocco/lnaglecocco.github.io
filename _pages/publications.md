@@ -17,11 +17,11 @@ author_profile: true
 
 [comment]: <> (18: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
-[comment]: <> (17: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration.)
+[comment]: <> (17: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
 
 [comment]: <> (16: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. ACS Journal of the American Chemical Society. 2025.)
 
-[comment]: <> (15: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
+[comment]: <> (15: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration.)
 
 **Preprints**
 
