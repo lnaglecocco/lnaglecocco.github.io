@@ -19,15 +19,16 @@ author_profile: true
 
 [comment]: <> (17: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
 
-[comment]: <> (16: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. ACS Journal of the American Chemical Society. 2025.)
+[comment]: <> (16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. ACS Chemistry of Materials. 2025.)
 
-[comment]: <> (15: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. ACS Chemistry of Materials. 2025.)
 
 **Preprints**
 
 **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 **2025**
+
+15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. ACS Journal of the American Chemical Society. _In press_
 
 14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. [_ACS Inorganic Chemistry._ 2025.](https://pubs.acs.org/articlesonrequest/AOR-6HWNC5ZTZG92UJJ7JU3S) [[arXiv](http://arxiv.org/abs/2508.03874)]
 
