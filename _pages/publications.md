@@ -11,11 +11,11 @@ author_profile: true
 
 [comment]: <> (21: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
-[comment]: <> (20: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs.)
+[comment]: <> (20: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
 
 [comment]: <> (19: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
-[comment]: <> (18: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
+[comment]: <> (18: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs.)
 
 [comment]: <> (17: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
 
