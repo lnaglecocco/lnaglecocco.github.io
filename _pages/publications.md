@@ -26,7 +26,7 @@ author_profile: true
 
 **2025**
 
-16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. _ACS Chemistry of Materials_. _In press_.
+16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. [_ACS Chemistry of Materials_. 2025.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01937)
 
 15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C. L.;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. [_ACS Journal of the American Chemical Society_. 2025.](https://pubs.acs.org/doi/abs/10.1021/jacs.5c10967)
 
