@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[comment]: <> (23: **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
+
+[comment]: <> (22: **Nagle-Cocco, L. A. V.**; Goodwin, A. G.; Grey, C. P.; Dutton, S. E. Monte Carlo simulations of Jahn--Teller distortions in correlated oxides.)
+
 [comment]: <> (21: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
 [comment]: <> (20: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
