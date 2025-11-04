@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[comment]: <> (23: **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
+[comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
 
 [comment]: <> (22: **Nagle-Cocco, L. A. V.**; Goodwin, A. G.; Grey, C. P.; Dutton, S. E. Monte Carlo simulations of Jahn--Teller distortions in correlated oxides.)
 
