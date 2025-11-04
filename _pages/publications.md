@@ -19,7 +19,7 @@ author_profile: true
 
 [comment]: <> (19: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
-[comment]: <> (18: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs. ACS Applied Materials and Interfaces. 2025.)
+[comment]: <> (18: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs. Elsevier Journal of Power Sources. 2025.)
 
 [comment]: <> (17: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2025.)
 
