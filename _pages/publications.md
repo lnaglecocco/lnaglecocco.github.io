@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. 2025.)
+
 [comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
 
 [comment]: <> (22: **Nagle-Cocco, L. A. V.**; Goodwin, A. G.; Grey, C. P.; Dutton, S. E. Monte Carlo simulations of Jahn--Teller distortions in correlated oxides.)
