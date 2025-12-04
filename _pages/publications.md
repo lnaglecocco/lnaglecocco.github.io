@@ -9,6 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+[comment]: <> (**In preparation**)
+
+[comment]: <> (25: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>.)
+
+
 [comment]: <> (24: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. 2025.)
 
 [comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
@@ -20,6 +25,8 @@ author_profile: true
 [comment]: <> (20: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
 [comment]: <> (19: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
+
+[comment]: <> (**In review**)
 
 [comment]: <> (18: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs. Elsevier Journal of Power Sources. 2025.)
 
