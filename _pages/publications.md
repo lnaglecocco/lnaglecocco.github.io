@@ -13,7 +13,6 @@ author_profile: true
 
 [comment]: <> (25: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>.)
 
-
 [comment]: <> (24: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. 2025.)
 
 [comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
