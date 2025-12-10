@@ -38,13 +38,13 @@ author_profile: true
 
 **2025**
 
-16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. [_ACS Chemistry of Materials_. 2025.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01937)
+16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. [_ACS Chemistry of Materials_. 2025, 37, 21, 8848–8860.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01937)
 
-15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C. L.;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. [_ACS Journal of the American Chemical Society_. 2025.](https://pubs.acs.org/doi/abs/10.1021/jacs.5c10967)
+15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C. L.;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. [_ACS Journal of the American Chemical Society_. 2025, 147, 42, 38283–38290.](https://pubs.acs.org/doi/abs/10.1021/jacs.5c10967)
 
-14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. [_ACS Inorganic Chemistry._ 2025.](https://pubs.acs.org/articlesonrequest/AOR-6HWNC5ZTZG92UJJ7JU3S) [[arXiv](http://arxiv.org/abs/2508.03874)]
+14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. [_ACS Inorganic Chemistry._ 2025, 64, 36, 18245–18253.](https://pubs.acs.org/doi/10.1021/acs.inorgchem.5c02474) [[arXiv](http://arxiv.org/abs/2508.03874)]
 
-13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025.](https://doi.org/10.1021/jacs.5c07435)
+13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025, 147, 32, 29042–29051.](https://doi.org/10.1021/jacs.5c07435)
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025, 81(6), 530-533.](https://doi.org/10.1107/S2056989025003512)
 
