@@ -23,9 +23,9 @@ author_profile: true
 
 [comment]: <> (20: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
 
-[comment]: <> (19: Zhu, Z.; Slomski, H.; Dzara, M. J.; **Nagle-Cocco, L. A. V.**; Van Winkle, M.; Ginley, D. S.; Gorman, B. P.; Shulda, S.; Tucker, M. T. Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
-
 [comment]: <> (**In review**)
+
+[comment]: <> (19: Zhu, Z.; Dzara, M. J.; Slomski, H.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. S.; Tucker, M. T. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells.)
 
 [comment]: <> (18: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs. Elsevier Journal of Power Sources. 2025.)
 
