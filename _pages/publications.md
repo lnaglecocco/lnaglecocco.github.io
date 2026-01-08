@@ -11,6 +11,8 @@ author_profile: true
 
 [comment]: <> (**In preparation**)
 
+[comment]: <> (27: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production.)
+
 [comment]: <> (26: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>.)
 
 [comment]: <> (25: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>.)
