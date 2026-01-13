@@ -23,7 +23,7 @@ author_profile: true
 
 [comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
 
-[comment]: <> (22: **Nagle-Cocco, L. A. V.**; Goodwin, A. G.; Grey, C. P.; Dutton, S. E. Monte Carlo simulations of Jahn--Teller distortions in correlated oxides.)
+[comment]: <> (22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Monte Carlo simulations of Jahn--Teller distortions in correlated oxides.)
 
 [comment]: <> (21: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
