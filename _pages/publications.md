@@ -11,8 +11,6 @@ author_profile: true
 
 [comment]: <> (**In preparation**)
 
-[comment]: <> (28: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides.)
-
 [comment]: <> (27: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production.)
 
 [comment]: <> (26: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>.)
@@ -22,6 +20,8 @@ author_profile: true
 [comment]: <> (24: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. 2025.)
 
 [comment]: <> (23: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
+
+[comment]: <> (22: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides.)
 
 [comment]: <> (21: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system.)
 
