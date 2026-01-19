@@ -15,17 +15,17 @@ author_profile: true
 
 [comment]: <> (26: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>.)
 
-[comment]: <> (25: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. 2025.)
+[comment]: <> (25: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. Acta Crystallographica Section B. 2026.)
 
-[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs.)
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs. Journal of Synchrotron Radiation. 2026.)
 
-[comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production.)
+[comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. Frontiers in Energy Research. 2026.)
 
-[comment]: <> (22: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells.)
+[comment]: <> (22: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells. ACS Chemistry of Materials. 2026.)
 
-[comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>.)
+[comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. ACS Journal of the American Chemical Society. 2026.)
 
-[comment]: <> (20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides.)
+[comment]: <> (20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides. ACS Journal of the American Chemical Society. 2026.)
 
 [comment]: <> (**In review**)
 
