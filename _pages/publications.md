@@ -21,7 +21,7 @@ author_profile: true
 
 [comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. Frontiers in Energy Research. 2026.)
 
-[comment]: <> (22: Kaufman, J. L.; Rowberg, A. J. E.; Lei, Y.; Abernathy, H.; Kane, N. J.; Hartvigsen, J. L.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Wood, B. C.; Kweon, K. E. Assessing Air Electrode Stability and Decomposition Scenarios in Solid Oxide Electrolysis Cells. ACS Chemistry of Materials. 2026.)
+[comment]: <> (22: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. ACS Chemistry of Materials. 2026.)
 
 [comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. ACS Journal of the American Chemical Society. 2026.)
 
