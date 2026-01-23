@@ -15,27 +15,27 @@ author_profile: true
 
 [comment]: <> (26: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>.)
 
-[comment]: <> (25: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. Acta Crystallographica Section B. 2026.)
+[comment]: <> (25: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. _IUCr Acta Crystallographica Section B_. 2026.)
 
-[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs. Journal of Synchrotron Radiation. 2026.)
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs. _IUCr Journal of Synchrotron Radiation_. 2026.)
 
-[comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. Frontiers in Energy Research. 2026.)
+[comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
-[comment]: <> (22: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. ACS Chemistry of Materials. 2026.)
+[comment]: <> (22: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
 
-[comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. ACS Journal of the American Chemical Society. 2026.)
+[comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. 2026.)
 
-[comment]: <> (20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides. ACS Journal of the American Chemical Society. 2026.)
+[comment]: <> (20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (**In review**)
 
-[comment]: <> (18: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S.E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. Nature Communications. 2026.)
+[comment]: <> (18: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
 **Preprints**
 
 **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. [[arXiv](https://arxiv.org/abs/2601.09705v1)]
 
-Zhu, Z.; Dzara, M. J.; Slomski, H.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. S.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
+Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. S.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
 **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
@@ -45,17 +45,17 @@ Zhu, Z.; Dzara, M. J.; Slomski, H.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco,
 
 **2025**
 
-16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S.E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. [_ACS Chemistry of Materials_. 2025, 37, 21, 8848–8860.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01937)
+16: Berardi, F.; **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Zhang, X.; Liu, C.; Fischer, H. E.; Dutton, S. E. Structural phase transitions and magnetic characterisation of Ba<sub>2</sub>GdNbO<sub>6</sub> for low temperature magnetocaloric refrigeration. [_ACS Chemistry of Materials_. 2025, 37, 21, 8848–8860.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c01937)
 
-15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C. L.;. **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. [_ACS Journal of the American Chemical Society_. 2025, 147, 42, 38283–38290.](https://pubs.acs.org/doi/abs/10.1021/jacs.5c10967)
+15: Masina, S. M.; Nkala, G. C.; Kiefer, M. A.; Cao, C. L.; **Nagle-Cocco, L. A. V.**; Mhlana, Y.; Stone, K. H. A Multi-Pronged Approach to the Determination of Cation Distribution, Site Selectivity and Chemical Ordering in High Entropy Spinel Oxides. [_ACS Journal of the American Chemical Society_. 2025, 147, 42, 38283–38290.](https://pubs.acs.org/doi/abs/10.1021/jacs.5c10967)
 
 14: **Nagle-Cocco, L. A. V.**; Schneemann, A.; Stone, K. H.; Stavila, V.; Gennett, T.; Strange, N. A. Orientational disorder of NH<sub>3</sub> in hexammine magnesium borohydride. [_ACS Inorganic Chemistry._ 2025, 64, 36, 18245–18253.](https://pubs.acs.org/doi/10.1021/acs.inorgchem.5c02474) [[arXiv](http://arxiv.org/abs/2508.03874)]
 
-13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S.E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025, 147, 32, 29042–29051.](https://doi.org/10.1021/jacs.5c07435)
+13: Philips, G. S.; Steele, J. M. A.; Sayed, F. N.; Karger, L.; **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Pérez, G. E.; Keen, D. A.; Janek, J.; Brezesinski, T.; Bocarsly, J. D.; Dutton, S. E.; Grey, C. P. Collinear Jahn-Teller Ordering Induces Monoclinic Distortion in "Defect-free" LiNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2025, 147, 32, 29042–29051.](https://doi.org/10.1021/jacs.5c07435)
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025, 81(6), 530-533.](https://doi.org/10.1107/S2056989025003512)
 
-11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C.P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
+11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C. P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
 
 10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S. E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025, 37(7), 2581-2591.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
 
