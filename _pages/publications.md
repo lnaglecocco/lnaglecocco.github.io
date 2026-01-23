@@ -41,7 +41,7 @@ Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Coc
 
 **2026**
 
-17: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in SOECs. _Elsevier Journal of Power Sources_. In press.
+17: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. S. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in solid oxide electrolysis cells. _Elsevier Journal of Power Sources_. In press.
 
 **2025**
 
