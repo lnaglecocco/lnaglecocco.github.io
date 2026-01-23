@@ -79,6 +79,6 @@ Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Coc
 
 **2022**
 
-2: Saleh, A. A.; Sayed, D. M.; **Nagle-Cocco, L. A. V.**; Divitini, G.; Ghanem, L. G.; Ducati, C; Allam, N. K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
+2: Saleh, A. A.; Sayed, D. M.; **Nagle-Cocco, L. A. V.**; Divitini, G.; Ghanem, L. G.; Ducati, C.; Allam, N. K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
 
 1: **Nagle-Cocco, L. A. V.**; Bull, C. L.; Ridley, C. J.; Dutton, S. E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345)
