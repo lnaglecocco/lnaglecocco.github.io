@@ -17,7 +17,7 @@ author_profile: true
 
 [comment]: <> (25: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. _IUCr Acta Crystallographica Section B_. 2026.)
 
-[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Strange, N. A. mu-XRD on SOECs. _IUCr Journal of Synchrotron Radiation_. 2026.)
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
 
 [comment]: <> (23: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
