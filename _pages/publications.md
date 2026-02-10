@@ -27,11 +27,11 @@ author_profile: true
 
 [comment]: <> (**In review**)
 
-[comment]: <> (20: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. 2026.)
-
 [comment]: <> (19: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
 **Preprints**
+
+Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [chemRxiv](submitted)
 
 **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)]
 
