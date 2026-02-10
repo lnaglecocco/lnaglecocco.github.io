@@ -31,13 +31,13 @@ author_profile: true
 
 **Preprints**
 
-Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [chemRxiv](submitted)
+21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [chemRxiv](submitted)
 
-**Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)]
+20: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)]
 
-Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. 2025. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
+19: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. 2025. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
-**Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. 2022. [[arXiv](https://arxiv.org/abs/2208.12197)]
+18: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. 2022. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 **2026**
 
