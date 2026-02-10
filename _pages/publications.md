@@ -23,11 +23,11 @@ author_profile: true
 
 [comment]: <> (22: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
 
-[comment]: <> (21: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. 2026.)
-
 [comment]: <> (20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and composition-driven magnetism in η-carbide type iron nitrides. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (**In review**)
+
+[comment]: <> (20: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulsa, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Ordering Control Structural Evolution in Electrochemically Desodiated Na<sub>1−x</sub>NiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (19: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
