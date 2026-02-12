@@ -19,7 +19,7 @@ author_profile: true
 
 [comment]: <> (26: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
 
-[comment]: <> (25: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. In situ and operando High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
+[comment]: <> (25: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
 [comment]: <> (24: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
 
