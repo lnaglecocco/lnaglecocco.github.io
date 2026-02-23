@@ -11,6 +11,8 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- journal listed is target journal)
 
+[comment]: <> (30: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of In Situ and Operando Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
+
 [comment]: <> (29: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
 
 [comment]: <> (28: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>. _ACS Journal of the American Chemical Society_. 2026.)
