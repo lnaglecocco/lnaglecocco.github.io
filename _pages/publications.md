@@ -37,11 +37,11 @@ author_profile: true
 
 20: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)]
 
-19: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. 2025. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
-
-18: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. 2022. [[arXiv](https://arxiv.org/abs/2208.12197)]
+19: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Ritter, C.; Suard, E.; Kelly, N. D.; Liu, C.; Grey, C. P.; Barpanda, P.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>1.440(4)</sub>Mn<sub>8</sub>O<sub>16</sub>. 2022. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 **2026**
+
+18: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. _In press at Elsevier Journal of Power Sources_. 2026. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
 17: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Ginley, D. S.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. M. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in solid oxide electrolysis cells. [_Elsevier Journal of Power Sources_. 2026, 669, 239398.](https://www.sciencedirect.com/science/article/pii/S0378775326001485)
 
