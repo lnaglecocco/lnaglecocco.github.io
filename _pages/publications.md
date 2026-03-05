@@ -41,7 +41,7 @@ author_profile: true
 
 **2026**
 
-18: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. _In press at Elsevier Journal of Power Sources_. 2026. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
+18: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. [_Elsevier Journal of Power Sources_](https://www.sciencedirect.com/science/article/pii/S0378775326005203?). 2026. [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
 17: Slomski, H. S.; Rowberg, A.; Van Winkle, M.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Kane, N.; Hartvigsen, J. L.; Casteel, M. J.; Ginley, D. S.; Wood, B. C.; Kweon, K. E.; Gorman, B. P.; Shulda, S. M. The structure, composition, and performance impact of a GDC-YSZ interdiffusion layer in solid oxide electrolysis cells. [_Elsevier Journal of Power Sources_. 2026, 669, 239398.](https://www.sciencedirect.com/science/article/pii/S0378775326001485)
 
