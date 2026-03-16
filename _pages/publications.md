@@ -11,19 +11,17 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- journal listed is target journal)
 
-[comment]: <> (30: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
+[comment]: <> (29: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
 
-[comment]: <> (29: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (28: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
 
-[comment]: <> (28: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of Nd<sup>4+</sup>-containing hexagonal perovskite 12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12</sub>. _ACS Journal of the American Chemical Society_. 2026.)
+[comment]: <> (27: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
 
-[comment]: <> (27: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Ulucan, T. H.; Crain, C. A.; Strange, N. A. Variable-temperature synchrotron diffraction on a mixture of Gd-doped ceria and yttria-stabilized zirconia. _IUCr Acta Crystallographica Section B_. 2026.)
+[comment]: <> (26: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
-[comment]: <> (26: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
+[comment]: <> (25: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
 
-[comment]: <> (25: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
-
-[comment]: <> (24: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of  12R-Ba<sub>4</sub>Mn<sub>3</sub>NdO<sub>12-δ</sub>. _ACS Chemistry of Materials_. 2026.)
 
 [comment]: <> (**In review**)
 
