@@ -33,9 +33,9 @@ author_profile: true
 
 21: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism in η-carbide type iron nitrides. 2026. [[arXiv](https://arxiv.org/abs/2602.06236)]
 
-20: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
+20: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
-19: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
+19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
 
 **2026**
 
