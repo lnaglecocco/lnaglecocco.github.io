@@ -23,7 +23,7 @@ author_profile: true
 
 [comment]: <> (**In review**)
 
-[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of  12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of  12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (23: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
