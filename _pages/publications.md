@@ -35,9 +35,9 @@ author_profile: true
 
 20: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
-19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
-
 **2026**
+
+19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. 2026. _ACS Journal of the American Chemical Society_. In press. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
 
 18: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. [_Elsevier Journal of Power Sources_. 2026, 674, 239770.](https://www.sciencedirect.com/science/article/pii/S0378775326005203?) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
