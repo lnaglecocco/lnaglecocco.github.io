@@ -33,9 +33,9 @@ author_profile: true
 
 22: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (K ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
-21: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism in η-carbide type iron nitrides. 2026. [[arXiv](https://arxiv.org/abs/2602.06236)]
+21: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
-20: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
+20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism in η-carbide type iron nitrides. 2026. [[arXiv](https://arxiv.org/abs/2602.06236)]
 
 **2026**
 
