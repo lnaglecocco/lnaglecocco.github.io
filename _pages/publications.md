@@ -35,7 +35,7 @@ author_profile: true
 
 21: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
-20: Julien, B.; Rauf, A.; Smaha, R. W.; **Nagle-Cocco, L. A. V.**; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism in η-carbide type iron nitrides. 2026. [[arXiv](https://arxiv.org/abs/2602.06236)]
+20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. 2026. [[arXiv](https://arxiv.org/abs/2602.06236)]
 
 **2026**
 
