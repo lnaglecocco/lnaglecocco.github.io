@@ -39,7 +39,7 @@ author_profile: true
 
 **2026**
 
-19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. _ACS Journal of the American Chemical Society_. In press. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
+19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2026.](https://pubs.acs.org/doi/full/10.1021/jacs.6c03074) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
 
 18: Zhu, Z.; Dzara, M. J.; Slomski, H. S.; Van Winkle, M.; Hathaway, O.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M.; Tucker, M. C. Robust Dynamic Operation of High Temperature Electrolysis Solid Oxide Cells. [_Elsevier Journal of Power Sources_. 2026, 674, 239770.](https://www.sciencedirect.com/science/article/pii/S0378775326005203?) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5932684)]
 
