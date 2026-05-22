@@ -11,6 +11,8 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- journal listed is target journal)
 
+[comment]: <> (31: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics.)
+
 [comment]: <> (30: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
 
 [comment]: <> (29: Slomski, H. S.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M. Dependence of thermal properties on composition in LSCF.)
