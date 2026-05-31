@@ -33,7 +33,7 @@ author_profile: true
 
 **Preprints**
 
-23: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
+23: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
 
 22: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (K ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
