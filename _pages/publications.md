@@ -9,17 +9,19 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[comment]: <> (**In preparation** -- journal listed is target journal)
+[comment]: <> (**In preparation** -- finished draft yet to materialise)
 
-[comment]: <> (32: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics.)
+[comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
 
-[comment]: <> (31: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (XXXXX: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
 
-[comment]: <> (30: Slomski, H. S.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M. Dependence of thermal properties on composition in LSCF.)
+[comment]: <> (XXXXX: Slomski, H. S.; **Nagle-Cocco, L. A. V.**; Strange, N. A.; Gorman, B. P.; Shulda, S. M. Dependence of thermal properties on composition in LSCF.)
 
-[comment]: <> (29: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
+[comment]: <> (**In preparation** -- first draft completed, likely submitted soon)
 
-[comment]: <> (28: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
+[comment]: <> (29: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics.)
+
+[comment]: <> (28: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
 
 [comment]: <> (27: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
