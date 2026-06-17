@@ -43,7 +43,7 @@ author_profile: true
 
 **2026**
 
-20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_.](https://doi.org/10.1021/acs.chemmater.6c009012026.) [[arXiv](https://arxiv.org/abs/2602.06236)]
+20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_.](https://pubs.acs.org/doi/10.1021/acs.chemmater.6c00901) [[arXiv](https://arxiv.org/abs/2602.06236)]
 
 19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Sodium Vacancy, Nickel Charge and Orbital Order: Structural Evolution in Electrochemically Desodiated Na<sub>x</sub>NiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2026, 148, 21, 22062.](https://pubs.acs.org/doi/full/10.1021/jacs.6c03074) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
 
