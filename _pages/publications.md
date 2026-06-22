@@ -17,7 +17,7 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon)
 
-[comment]: <> (29: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics.)
+[comment]: <> (29: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics. _APS PRX Energy_. 2026.)
 
 [comment]: <> (28: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
 
