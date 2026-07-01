@@ -29,17 +29,17 @@ author_profile: true
 
 [comment]: <> (25: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
-[comment]: <> (24: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of  12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. _ACS Journal of the American Chemical Society_. 2026.)
-
 **Preprints**
 
-23: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
+24: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
 
-22: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (K ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
+23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (K ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
-21: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
+22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
 **2026**
+
+[comment]: <> (21: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Synthesis, structure, and magnetism of  12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. _ACS Journal of the American Chemical Society (in press)_. 2026.)
 
 20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_. 2026.](https://pubs.acs.org/doi/10.1021/acs.chemmater.6c00901) [[arXiv](https://arxiv.org/abs/2602.06236)]
 
