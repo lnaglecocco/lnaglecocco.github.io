@@ -23,7 +23,7 @@ author_profile: true
 
 [comment]: <> (27: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
-[comment]: <> (26: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Thermodynamic Assessment of Air Electrode Stability in Solid Oxide Electrolysis Cells. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (26: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (**In review**)
 
