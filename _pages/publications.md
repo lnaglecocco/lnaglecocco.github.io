@@ -33,7 +33,7 @@ author_profile: true
 
 24: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
 
-23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (K ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
+23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
