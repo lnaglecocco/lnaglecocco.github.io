@@ -19,13 +19,13 @@ author_profile: true
 
 [comment]: <> (29: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Bajdich, M.; Strange, N. A.; Winther, K. Capturing thermal expansion and phase transitions in complex perovskite oxides via on-the-fly machine-learned molecular dynamics. _APS PRX Energy_. 2026.)
 
-[comment]: <> (28: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
+[comment]: <> (28: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
 [comment]: <> (27: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
-[comment]: <> (26: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
-
 [comment]: <> (**In review**)
+
+[comment]: <> (26: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. )
 
 [comment]: <> (25: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
