@@ -9,11 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[comment]: <> (**In preparation** -- finished draft yet to materialise)
+[comment]: <> (**In preparation** -- draft not finished)
 
-[comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Crain, C. C.; Dzara, M. J.; Kiefer, M. A.; Strange, N. A. Analysis protocol for micron-scale synchrotron diffraction on inhomogeneous polycrystalline samples: a solid oxide electrolyser cell case study. _IUCr Journal of Synchrotron Radiation_. 2026.)
+[comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Strange, N. A. Mechanistic insights into solid oxide electrolyser degradation from operando synchrotron diffraction. _ACS Energy Letters_.)
 
-[comment]: <> (XXXXX: Crain, C. C.; **Nagle-Cocco, L. A. V.**; Nygren, E.; Stone, K. H.; Shulda, S.; Ginley, D. S.; Bell, R. T.; Strange, N. A. Synthesis, structure, and thermochemical redox of the (Ca,Ce)(Ti,Mn)O<sub>3</sub> system. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivityin O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon)
 
