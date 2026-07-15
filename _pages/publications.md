@@ -9,13 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-[comment]: <> (**In preparation** -- draft not finished)
+[comment]: <> (**In preparation** -- draft not finished -- journal is target)
 
 [comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Strange, N. A. Mechanistic insights into solid oxide electrolyser degradation from operando synchrotron diffraction. _ACS Energy Letters_.)
 
 [comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivityin O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
 
-[comment]: <> (**In preparation** -- first draft completed, likely submitted soon)
+[comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
 
 [comment]: <> (29: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
