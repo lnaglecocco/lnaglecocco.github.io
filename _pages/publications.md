@@ -21,7 +21,7 @@ author_profile: true
 
 [comment]: <> (28: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
-[comment]: <> (**In review**)
+[comment]: <> (**In review** -- journal is current journal it is in review at) 
 
 [comment]: <> (27: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
 
