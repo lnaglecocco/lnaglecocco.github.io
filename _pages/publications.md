@@ -13,7 +13,7 @@ author_profile: true
 
 [comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Strange, N. A. Mechanistic insights into solid oxide electrolyser degradation from operando synchrotron diffraction. _ACS Energy Letters_.)
 
-[comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivityin O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
+[comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Dzara, M. J.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivityin O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
 
