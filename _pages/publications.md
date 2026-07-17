@@ -39,7 +39,7 @@ author_profile: true
 
 **2026**
 
-21: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A. M.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Mixed Nd<sup>4+/3+</sup> and cluster magnetism in hexagonal perovskite 12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. _ACS Journal of the American Chemical Society (in press)_. 2026.
+21: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A. M.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Mixed Nd<sup>4+/3+</sup> and cluster magnetism in hexagonal perovskite 12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. [_ACS Journal of the American Chemical Society (in press)_. 2026.](https://doi.org/10.1021/jacs.6c08795)
 
 20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_. 2026.](https://pubs.acs.org/doi/10.1021/acs.chemmater.6c00901) [[arXiv](https://arxiv.org/abs/2602.06236)]
 
