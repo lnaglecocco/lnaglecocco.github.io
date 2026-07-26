@@ -41,7 +41,7 @@ author_profile: true
 
 21: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A. M.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Mixed Nd<sup>4+/3+</sup> and cluster magnetism in hexagonal perovskite 12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. [_ACS Journal of the American Chemical Society_. 2026.](https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08795/5231475/Mixed-Nd4-3-and-Cluster-Magnetism-in-Hexagonal)
 
-20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_. 2026.](https://pubs.acs.org/doi/10.1021/acs.chemmater.6c00901) [[arXiv](https://arxiv.org/abs/2602.06236)]
+20: Julien, B.; Rauf, A.; **Nagle-Cocco, L. A. V.**; Smaha, R. W.; Sun, W.; Zakutayev, A.; Bauers, S. R. Thin-film stabilization and magnetism of η-carbide type iron nitrides. [_ACS Chemistry of Materials_. 2026, 38, 13, 6723–6732.](https://pubs.acs.org/doi/10.1021/acs.chemmater.6c00901) [[arXiv](https://arxiv.org/abs/2602.06236)]
 
 19: Steele, J. M. A.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Phillips, G. S.; Sayed, F. N.; Lampronti, G. I.; Orlandi, F.; Manuel, P.; Mikulska, I.; Grey, C. P.; Dutton, S. E. Evolution of Charge and Orbital Ordering, and Cation Vacancy Ordering During Electrochemical Desodiation of Na<sub>x</sub>NiO<sub>2</sub>. [_ACS Journal of the American Chemical Society_. 2026, 148, 21, 22062.](https://pubs.acs.org/doi/full/10.1021/jacs.6c03074) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.10002076)]
 
