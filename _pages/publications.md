@@ -23,11 +23,11 @@ author_profile: true
 
 [comment]: <> (28: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _IUCr Journal of Applied Crystallography_. 2026.)
 
+[comment]: <> (27: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _ACS Chemistry of Materials_. 2026.)
+
 [comment]: <> (**In review** -- journal is current journal it is in review at) 
 
-[comment]: <> (27: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
-
-[comment]: <> (26: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _ACS Chemistry of Materials_. 2026.)
+[comment]: <> (26: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
 
 [comment]: <> (25: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
