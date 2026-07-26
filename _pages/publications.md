@@ -21,6 +21,8 @@ author_profile: true
 
 [comment]: <> (28: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
+[comment]: <> (28: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _IUCr Journal of Applied Crystallography_. 2026.)
+
 [comment]: <> (**In review** -- journal is current journal it is in review at) 
 
 [comment]: <> (27: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
