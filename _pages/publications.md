@@ -17,9 +17,9 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
 
-[comment]: <> (29: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
+[comment]: <> (30: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
-[comment]: <> (28: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
+[comment]: <> (29: Douglas, T. C.; Lowry, D. R.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Coker, E. N.; Rodriguez, M. A.; Strange, N. A.; Bishop, S. R. _In situ_ and _operando_ High Temperature X-ray Diffraction for Thermochemical Hydrogen Production. _Frontiers in Energy Research_. 2026.)
 
 [comment]: <> (28: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _IUCr Journal of Applied Crystallography_. 2026.)
 
