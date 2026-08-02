@@ -11,6 +11,8 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- draft not finished -- journal is target)
 
+[comment]: <> (XXXXX: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
+
 [comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Strange, N. A. Mechanistic insights into solid oxide electrolyser degradation from operando synchrotron diffraction. _ACS Energy Letters_.)
 
 [comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Dzara, M. J.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivity in O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
