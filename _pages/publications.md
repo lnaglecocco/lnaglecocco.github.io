@@ -25,17 +25,17 @@ author_profile: true
 
 [comment]: <> (**In review** -- journal is current journal it is in review at) 
 
-[comment]: <> (28: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _IUCr Journal of Applied Crystallography_. 2026.)
+[comment]: <> (28: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _Journal of the Electrochemical Society_. 2026.)
 
-[comment]: <> (27: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _Journal of the Electrochemical Society_. 2026.)
+[comment]: <> (27: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
 
-[comment]: <> (26: Nayak, D.; Sayed, F. N.; Lovett, A. J.; Joo, S. H.; Daramalla, V.; Mahadevegowda, A.; **Nagle-Cocco, L. A. V.**; Ducati, C.; Spencer, B. F.; Pickard, C. J.; Grey, C. P.; MacManus-Driscoll, J. L.; Dutton, S. E. Origin of plane–selective surface degradation mechanisms in Ni-rich cathodes for Li-ion batteries. _Nature Communications_. 2026.)
-
-[comment]: <> (25: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
+[comment]: <> (26: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _APS PRX Energy_. 2026.)
 
 **Preprints**
 
-24: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
+25: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
+
+24: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _In review at IUCr Journal of Applied Crystallography_. 2026. [[arXiv](https://arxiv.org/abs/2607.28859)]
 
 23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
