@@ -11,11 +11,13 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- draft not finished -- journal is target)
 
+[comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Liu, J.; Neuefeind, J.; Van Auken, E.; Strange, N. A. Thermal and Redox Cycling of the Mixed Ionic-Electronic Conductor La<sub>0.6</sub>Sr<sub>0.4</sub>Co<sub>0.2</sub>Fe<sub>0.8</sub>O<sub>3-δ</sub> Probed by In Situ Neutron Total Scattering. _ACS Chemistry of Materials_.)
+
 [comment]: <> (XXXXX: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
 
 [comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Strange, N. A. Mechanistic insights into solid oxide electrolyser degradation from operando synchrotron diffraction. _ACS Energy Letters_.)
 
-[comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Dzara, M. J.; Strange, N. A; **Nagle-Cocco, L. A. V.** Rare earth cation radius governs oxygen conductivity in O-deficient barium rare earth gallate perovskites. _ACS Journal of the American Chemical Society_.)
+[comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Dzara, M. J.; Strange, N. A; **Nagle-Cocco, L. A. V.** Structural, magnetic, and electronic properties of O-deficient barium rare earth gallate perovskites. _ACS Chemistry of Materials_.)
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
 
