@@ -41,9 +41,9 @@ author_profile: true
 
 23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate magnetic modulation in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
-22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
-
 **2026**
+
+22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. _In press at APS Physical Review B_. 2026. [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
 21: **Nagle-Cocco, L. A. V.**; Port, M. G.; Park, J. E.; Mueller, O.; Nordlund, D.; Berseneva, A.; Manjón-Sanz, A. M.; Yahne, D. R.; Li, Y.; Ariceaga Gonzalez, B.; Coker, E. N.; Ambrosini, A.; Klein, R. A.; Smaha, R. W.; Strange, N. A. Mixed Nd<sup>4+/3+</sup> and cluster magnetism in hexagonal perovskite 12R-Ba<sub>4</sub>NdMn<sub>3</sub>O<sub>12-δ</sub>. [_ACS Journal of the American Chemical Society_. 2026.](https://pubs.acs.org/jacsat/article/doi/10.1021/jacs.6c08795/5231475/Mixed-Nd4-3-and-Cluster-Magnetism-in-Hexagonal)
 
