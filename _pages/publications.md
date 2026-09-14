@@ -39,7 +39,7 @@ author_profile: true
 
 **2026**
 
-23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate structural and magnetic modulations in K-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). _In press at ACS Chemistry of Materials_. 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
+23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate structural and magnetic modulations in potassium-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). _In press at ACS Chemistry of Materials_. 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. [_In press at APS Physical Review B_. 2026.](https://doi.org/10.1103/chbx-wzvl) [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
