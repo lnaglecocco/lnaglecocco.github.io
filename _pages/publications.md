@@ -35,7 +35,7 @@ author_profile: true
 
 25: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). _In review at the Journal of Materials Chemistry C_. 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
 
-24: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _In review at IUCr Journal of Applied Crystallography_. 2026. [[arXiv](https://arxiv.org/abs/2607.28859)]
+24: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _In review at the Journal of Applied Crystallography_. 2026. [[arXiv](https://arxiv.org/abs/2607.28859)]
 
 **2026**
 
