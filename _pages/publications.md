@@ -31,13 +31,13 @@ author_profile: true
 
 **Preprints**
 
-26: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _In review at the Journal of the Electrochemical Society_. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008843/v1)]
+26: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). _In review at the Journal of Materials Chemistry C_. 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
 
-25: Julien, B.; **Nagle-Cocco, L. A. V.**; Yang, Y.; Strange, N. A.; Bedford, N. M.; Zakutayev, A. Composition-dependent Thin-Film Synthesis of Layered Ternary Iron Nitrides FeMN<sub>2</sub> (M = W, Mo). _In review at the Journal of Materials Chemistry C_. 2026. [[arXiv](https://arxiv.org/abs/2605.30137)]
-
-24: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _In review at the Journal of Applied Crystallography_. 2026. [[arXiv](https://arxiv.org/abs/2607.28859)]
+25: **Nagle-Cocco, L. A. V.**; Crain, C. A.; Dzara, M. J.; Kiefer, M. A.; Port, M. G.; Ulucan, T. H.; Van Winkle, M.; Hathaway, O.; Strange, N. A. Automating the analysis of micron-scale synchrotron diffraction data on inhomogeneous polycrystalline samples: a solid oxide electrolysis cell case study. _In review at the Journal of Applied Crystallography_. 2026. [[arXiv](https://arxiv.org/abs/2607.28859)]
 
 **2026**
+
+24: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _In press at the Journal of the Electrochemical Society_. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008843/v1)]
 
 23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate structural and magnetic modulations in potassium-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). _In press at ACS Chemistry of Materials_. 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
 
