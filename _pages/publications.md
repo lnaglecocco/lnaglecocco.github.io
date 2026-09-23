@@ -65,23 +65,23 @@ author_profile: true
 
 12: **Nagle-Cocco, L. A. V.**; Bell, R. T.; Strange, N. A. Orthorhombic cerium (III) carbonate hydrate studied by synchrotron x-ray diffraction. [_IUCr Acta Crystallographica Section E_. 2025, 81(6), 530-533.](https://doi.org/10.1107/S2056989025003512)
 
-11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C. P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e)
+11: **Nagle-Cocco, L. A. V.**; Steele, J. M. A.; Deng, S.; Zhang, X.; Daisenberger, D.; Genreith-Schriever, A. R.; Saxena, S. S.; Grey, C. P.; Dutton, S. E. Dome-like pressure-temperature phase diagram of the cooperative Jahn–Teller distortion in NaNiO<sub>2</sub>. [_IoP Journal of Physics: Condensed Matter._ 2025, 37(20), 205401.](https://iopscience.iop.org/article/10.1088/1361-648X/adcb0e) [[arXiv](https://arxiv.org/abs/2503.18833)]
 
 10: Steele, J. M. A.; Genreith-Schriever, A. R.; Bocarsly, J. D.; **Nagle-Cocco, L. A. V.**; Sayed, F. N.; Juramy, M.; O'Keefe, C. A.; Orlandi, F.; Manuel, P.; Dutton, S. E.; Grey, C. P. Structural Elucidation of Na<sub>2/3</sub>NiO<sub>2</sub>, a Dynamically Stabilized Cathode Phase with Nickel Charge and Sodium Vacancy Ordering. [_ACS Chemistry of Materials._ 2025, 37(7), 2581-2591.](https://pubs.acs.org/doi/10.1021/acs.chemmater.5c00084)
 
 **2024**
 
-9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society._ 2024, 146(43), 29560-29574.](https://doi.org/10.1021/jacs.4c09922)
+9: **Nagle-Cocco, L. A. V.**; Genreith-Schriever, A. R.; Steele, J. M. A.; Tacconis, C.; Bocarsly, J. D.; Mathon, O.; Neuefeind, J. C.; Liu, J.; O’Keefe, C. A.; Goodwin, A. L.; Grey, C. P.; Evans, J. S. O.; Dutton, S. E. Displacive Jahn–Teller transition in NaNiO<sub>2</sub>. [_ACS Journal of the American Chemical Society._ 2024, 146(43), 29560-29574.](https://doi.org/10.1021/jacs.4c09922) [[arXiv](https://arxiv.org/abs/2408.01267)]
 
-8: Khan, S.; Aw, E. S. Y.; **Nagle-Cocco, L. A. V.**; Ghosh, S.; Sud, A.; Subhan, M. K. B.; Xue, Z.; Freeman, C.; Sagkovits, D.; Gutierrez-Llorente, A.; Verzhbitskiy, I.; Arroo, D. M.; Zollitsch, C. W.; Eda, G.; Santos, E. J. G.; Dutton, S. E.; Bramwell, S. T.; Howard, C. A.; Kurebayashi, H. Spin-Glass States Generated in a van der Waals Magnet by Alkali-Ion Intercalation. [_Wiley Advanced Materials_. 2024.](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202400270)
+8: Khan, S.; Aw, E. S. Y.; **Nagle-Cocco, L. A. V.**; Ghosh, S.; Sud, A.; Subhan, M. K. B.; Xue, Z.; Freeman, C.; Sagkovits, D.; Gutierrez-Llorente, A.; Verzhbitskiy, I.; Arroo, D. M.; Zollitsch, C. W.; Eda, G.; Santos, E. J. G.; Dutton, S. E.; Bramwell, S. T.; Howard, C. A.; Kurebayashi, H. Spin-Glass States Generated in a van der Waals Magnet by Alkali-Ion Intercalation. [_Wiley Advanced Materials_. 2024.](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202400270) [[arXiv](https://arxiv.org/abs/2312.17554)]
 
-7: Harbourne, E. A.; Barker, H.; Guéroult, Q.; Cattermull, J.; **Nagle-Cocco, L. A. V.**; Roth, N.; Evans, J. S. O.; Keen, D. A.; Goodwin, A. L. Local structure and dynamics in MPt(CN)<sub>6</sub> Prussian blue analogues. [_ACS Chemistry of Materials_. 2024, 36, 11, 5796–5804.](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c01013)
+7: Harbourne, E. A.; Barker, H.; Guéroult, Q.; Cattermull, J.; **Nagle-Cocco, L. A. V.**; Roth, N.; Evans, J. S. O.; Keen, D. A.; Goodwin, A. L. Local structure and dynamics in MPt(CN)<sub>6</sub> Prussian blue analogues. [_ACS Chemistry of Materials_. 2024, 36, 11, 5796–5804.](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c01013) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2024-s0s5d)]
 
 6: Ye, C.; Lampronti, G. I.; McHugh, L. N.; Castillo-Blas, C.; Kono, A.; Chen, C.; Robertson, G. P.; **Nagle-Cocco, L. A. V.**; Xu, W.; Martinez, V.; Brekalo, I.; Uzarevic, K.; Xue, W.; Kolodzeiski, P.; Das, C.; Henke, S.; Chater, P.; Keen, D. A.; Dutton, S. E.; Bennett, T. D. Mechanically-induced glass formation of two-dimensional hybrid organic-inorganic perovskites. [_RSC Chemical Science_. 2024, 15, 7198–7205.](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc00905c)
 
-5: Genreith-Schriever, A. R.; Alexei, A.; Phillips, G.; Coates, C. S.; **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sayed, F. N.; Dutton, S. E.; Grey, C. P. Jahn–Teller distortions and phase transitions in LiNiO<sub>2</sub>: Insights from Ab-initio Molecular Dynamics and variable-temperature X ray diffraction. [_ACS Chemistry of Materials_. 2024, 36, 2289–2303.](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02413)
+5: Genreith-Schriever, A. R.; Alexei, A.; Phillips, G.; Coates, C. S.; **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sayed, F. N.; Dutton, S. E.; Grey, C. P. Jahn–Teller distortions and phase transitions in LiNiO<sub>2</sub>: Insights from Ab-initio Molecular Dynamics and variable-temperature X ray diffraction. [_ACS Chemistry of Materials_. 2024, 36, 2289–2303.](https://pubs.acs.org/doi/10.1021/acs.chemmater.3c02413) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-q3cmz)]
 
-4: **Nagle-Cocco, L. A. V.**; Dutton, S. E. Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator. [_IUCr Journal of Applied Crystallography_. 2024, 57, 1, 20–33.](https://scripts.iucr.org/cgi-bin/paper?S1600576723009925)
+4: **Nagle-Cocco, L. A. V.**; Dutton, S. E. Van Vleck Analysis of Angularly Distorted Octahedra using VanVleckCalculator. [_IUCr Journal of Applied Crystallography_. 2024, 57, 1, 20–33.](https://scripts.iucr.org/cgi-bin/paper?S1600576723009925) [[arXiv](https://arxiv.org/abs/2310.18255)]
 
 **2023**
 
@@ -91,4 +91,4 @@ author_profile: true
 
 2: Saleh, A. A.; Sayed, D. M.; **Nagle-Cocco, L. A. V.**; Divitini, G.; Ghanem, L. G.; Ducati, C.; Allam, N. K. Deciphering the In Situ Surface Reconstruction of Supercapacitive Bimetallic Ni-Co Oxyphosphide during Electrochemical Activation Using Multivariate Statistical Analyses. [_ACS Applied Energy Materials_. 2022, 5, 6, 7661–7673.](https://pubs.acs.org/doi/full/10.1021/acsaem.2c01122)
 
-1: **Nagle-Cocco, L. A. V.**; Bull, C. L.; Ridley, C. J.; Dutton, S. E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345)
+1: **Nagle-Cocco, L. A. V.**; Bull, C. L.; Ridley, C. J.; Dutton, S. E. Pressure Tuning the Jahn–Teller Transition Temperature in NaNiO<sub>2</sub>. [_ACS Inorganic Chemistry_. 2022, 61, 4312–4321.](https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.1c03345) [[arXiv](https://arxiv.org/abs/2202.09127)]
