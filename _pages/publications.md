@@ -13,11 +13,11 @@ author_profile: true
 
 [comment]: <> (XXXXX: **Nagle-Cocco, L. A. V.**; Kiefer, M. A.; Liu, J.; Neuefeind, J.; Van Auken, E.; Strange, N. A. Thermal and Redox Cycling of the Mixed Ionic-Electronic Conductor La<sub>0.6</sub>Sr<sub>0.4</sub>Co<sub>0.2</sub>Fe<sub>0.8</sub>O<sub>3-δ</sub> Probed by In Situ Neutron Total Scattering. _ACS Chemistry of Materials_.)
 
-[comment]: <> (XXXXX: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
-
 [comment]: <> (XXXXX: Zhang, E.; Kiefer, M. A.; Dzara, M. J.; Strange, N. A; **Nagle-Cocco, L. A. V.** Structural, magnetic, and electronic properties of O-deficient barium rare earth gallate perovskites. _ACS Chemistry of Materials_.)
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
+
+[comment]: <> (31: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
 
 [comment]: <> (30: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
