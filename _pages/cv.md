@@ -40,7 +40,7 @@ Conference attendance
 
 **2025**
 - Gordon Research Seminar and Conference in Water Electrolysis (Waterville Valley, New Hampshire, United States of America)
-- North American Solid State Chemistry COnference 2025 (Ames, Iowa, United States of America)
+- North American Solid State Chemistry Conference 2025 (Ames, Iowa, United States of America)
 
 **2024**
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
