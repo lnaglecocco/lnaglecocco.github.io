@@ -15,7 +15,7 @@ Education
 * Study abroad at University of Washington, September 2017 - June 2018
 * PhD in Physics, University of Cambridge, October 2019 - June 2024
 * Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
-* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - present
+* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
 
 Teaching experience
 ======
@@ -35,12 +35,20 @@ Teaching experience
 
 * Summer 2025: mentor to SULI summer intern Madeline Port (rising junior at UPenn), Stanford University/SLAC
 
+* Summer 2026: mentor to SULI summer intern Ellen Zhang (rising junior at Brown University), Stanford University/SLAC
+
 Conference attendance
 ======
 
+**2026**
+- Materials Research Society Spring Meeting (Waikiki, Hawaii, United States of America)
+  - gave a talk
+
 **2025**
 - Gordon Research Seminar and Conference in Water Electrolysis (Waterville Valley, New Hampshire, United States of America)
+  - presented a poster
 - North American Solid State Chemistry Conference 2025 (Ames, Iowa, United States of America)
+  - presented a poster
 
 **2024**
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
