@@ -17,7 +17,7 @@ author_profile: true
 
 [comment]: <> (**In preparation** -- first draft completed, likely submitted soon -- journal is target)
 
-[comment]: <> (31: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
+[comment]: <> (31: Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Masina, S. M.; Ulucan, T. H.; Strange, N. A. Observation of carbonation of SrO by SAXS/WAXS and diffraction. _ACS Inorganic Chemistry_.)
 
 [comment]: <> (30: Kaufman, J. L.; Lei, Y.; **Nagle-Cocco, L. A. V.**; Kane, N. J.; Rowberg, A. J. E.; Hartvigsen, J. L.; Strange, N. A.; Abernathy, H.; Wood, B. C.; Kweon, K. E. Deciphering factors that determine air electrode stability in solid oxide electrolysis cells during processing and operation. _ACS Journal of the American Chemical Society_. 2026.)
 
