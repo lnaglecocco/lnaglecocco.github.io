@@ -39,7 +39,7 @@ author_profile: true
 
 24: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. _In press at the Journal of the Electrochemical Society_. 2026. [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008843/v1)]
 
-23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate structural and magnetic modulations in potassium-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). _In press at ACS Chemistry of Materials_. 2026. [[arXiv](https://arxiv.org/abs/2208.12197)]
+23: **Nagle-Cocco, L. A. V.**; Bocarsly, J. D.; Sada, K.; Kelly, N. D.; Kiefer, M. A.; Suard, E.; Liu, C.; Grey, C. P.; Barpanda, P.; Ritter, C.; Dutton, S. E. Incommensurate structural and magnetic modulations in potassium-rich cryptomelane, K<sub>x</sub>Mn<sub>8</sub>O<sub>16</sub> (x ≈ 1.45). [_ACS Chemistry of Materials_. 2026.](https://pubs.acs.org/cmatex/article/doi/10.1021/acs.chemmater.6c01980/5445579/Incommensurate-Structural-and-Magnetic-Modulations) [[arXiv](https://arxiv.org/abs/2208.12197)]
 
 22: **Nagle-Cocco, L. A. V.**; Goodwin, A. L.; Grey, C. P.; Dutton, S. E. Revisiting Jahn--Teller Transitions in Correlated Oxides with Monte Carlo Modeling. [_APS Physical Review B_. 2026, 114, 134106.](https://doi.org/10.1103/chbx-wzvl) [[arXiv](https://arxiv.org/abs/2601.09705v1)] 
 
