@@ -35,7 +35,7 @@ author_profile: true
 
 **2026**
 
-25: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _In press at APS PRX Energy_. 2026.
+25: Evangelista, I.; Kiefer, M. A.; **Nagle-Cocco, L. A. V.**; Dzara, M. J.; Strange, N. A.; Bajdich, M.; Winther, K. T. Finite-Temperature Machine-Learning Molecular Dynamics for Thermal Expansion and Structural Evolution in Perovskite Oxide Electrode Materials. _In press at APS PRX Energy_. 2026.
 
 24: Steele, J. M. A.; Pérez, G.; Sayed, F. N.; **Nagle-Cocco, L. A. V.**; Tacconis, C.; Lencionni, A.; Scheer, I.; Grey, C. P.; Dutton, S. E. Development of _In Situ_ and _Operando_ Neutron Powder Diffraction for Sodium-Ion Batteries using NaNiO<sub>2</sub>. [_Journal of the Electrochemical Society_. 2026.](https://iopscience.iop.org/article/10.1149/1945-7111/aeab15) [[chemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15008843/v1)]
 
