@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
+* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
+* Postdoctoral research associate, Weatherup Group, Department of Materials, University of Oxford, October 2026 - present
+* Junior Research Fellow, Wolfson College, Oxford, January 2027 onwards
+
 Education
 ======
 * MSci in Physics, University College London, 2015-2019
 * Study abroad at University of Washington, September 2017 - June 2018
 * PhD in Physics, University of Cambridge, October 2019 - June 2024
-* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
-* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
-* Postdoctoral research associate, Weatherup Group, Department of Materials, University of Oxford, October 2026 - present
-* Junior Research Fellow, Wolfson COllege, Oxford, January 2027 onwards
+
 
 Teaching experience
 ======
@@ -45,6 +49,7 @@ Conference attendance
 **2026**
 - Materials Research Society Spring Meeting (Waikiki, Hawaii, United States of America)
   - gave a talk
+- Pittsburgh Diffraction Conference (SLAC, California, United States of America)
 
 **2025**
 - Gordon Research Seminar and Conference in Water Electrolysis (Waterville Valley, New Hampshire, United States of America)
@@ -53,7 +58,7 @@ Conference attendance
   - presented a poster
 
 **2024**
-- UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
+- UK Neutron and Muon Science and User Meeting 2024 (Warwick University, Coventry, United Kingdom)
 - ISIS Roadshow 2024 (Cardiff University, Cardiff, United Kingdom)
   - gave a talk
 
@@ -69,7 +74,7 @@ Conference attendance
 
 **2022**
 - Gordon Research Seminar and Conference in Solid State Chemistry (Colby-Sawyer College, New Hampshire, United States of America)
-- Theoretical and Experimantal Magnetism Meeting 2022 (TEMM2022) (Cosener's House, Abingdon, United Kingdom)
+- Theoretical and Experimental Magnetism Meeting 2022 (TEMM2022) (Cosener's House, Abingdon, United Kingdom)
 - Disordered Materials User Group Meeting 2022 (Cosener's House, Abingdon, United Kingdom)
 - Winter Crystallography Meeting 2022 (Milton Hill House, Abingdon, United Kingdom)
 - UK Neutron and Muon Science and User Meeting 2022 (Warwick University, Coventry, United Kingdom)
@@ -104,3 +109,13 @@ Internships
 - June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
 - August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
 - April 2023 to October 2023: Echion Technologies (Cambridge, United Kingdom)
+
+Reviewing experience
+======
+
+- American Chemical Society
+  - ACS Nano
+  - Inorganic Chemistry
+- American Physical Society
+  - Physical Review B
+  - Physical Review Materials
