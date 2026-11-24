@@ -17,6 +17,7 @@ Education
 * Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
 * Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
 * Postdoctoral research associate, Weatherup Group, Department of Materials, University of Oxford, October 2026 - present
+* Junior Research Fellow, Wolfson COllege, Oxford, January 2027 onwards
 
 Teaching experience
 ======
