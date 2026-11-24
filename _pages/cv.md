@@ -11,37 +11,32 @@ redirect_from:
 
 Experience
 ======
-* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
-* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
-* Postdoctoral research associate, Weatherup Group, Department of Materials, University of Oxford, October 2026 - present
 * Junior Research Fellow, Wolfson College, Oxford, January 2027 onwards
+* Postdoctoral research associate, Weatherup Group, Department of Materials, University of Oxford, October 2026 - present
+* Postdoctoral research associate, Strange Group, Stanford Synchrotron Radiation Lightsource, Stanford University, October 2024 - October 2026
+* Postdoctoral research associate, Grey Group, University of Cambridge, June 2024 - October 2024
 
 Education
 ======
-* MSci in Physics, University College London, 2015-2019
-* Study abroad at University of Washington, September 2017 - June 2018
 * PhD in Physics, University of Cambridge, October 2019 - June 2024
+* Study abroad at University of Washington, September 2017 - June 2018
+* MSci in Physics, University College London, 2015-2019
 
+Supervision and mentoring
+======
+* Summer 2026: mentor to SULI summer intern Ellen Zhang (rising junior at Brown University), Stanford University/SLAC
+* Summer 2025: mentor to SULI summer intern Madeline Port (rising junior at UPenn), Stanford University/SLAC
+* November 2020-April 2021: Part 3 research project supervision (Camilla Tacconis), University of Cambridge
+* 2020 to 2024: pastoral mentoring of junior MPhil and PhD students within Jesus College, Cambridge as part of the "College Parent" scheme
 
 Teaching experience
 ======
-* Summer 2017: teaching Python to year 9 students, Go4Code, London
-
-* March to June 2018: teaching assistant for electromagnetism course, University of Washington
-
-* Autumn 2018: a week assisting science teachers, Treorchy Comprehensive School
-
-* October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator, University of Cambridge
-
-* November 2020-April 2021: Part 3 research project supervision (Camilla Tacconis), University of Cambridge
-
-* March 2021-December 2022: Part II (second year) undergraduate physics Python demonstrator, University of Cambridge
-
 * January-April 2023: Part IB (second year) undergraduate chemistry laboratory demonstrator, University of Cambridge
-
-* Summer 2025: mentor to SULI summer intern Madeline Port (rising junior at UPenn), Stanford University/SLAC
-
-* Summer 2026: mentor to SULI summer intern Ellen Zhang (rising junior at Brown University), Stanford University/SLAC
+* March 2021-December 2022: Part II (second year) undergraduate physics Python demonstrator, University of Cambridge
+* October 2019-December 2022: Part IA (first year) undergraduate physics laboratory demonstrator, University of Cambridge
+* Autumn 2018: a week assisting science teachers, Treorchy Comprehensive School
+* March to June 2018: teaching assistant for electromagnetism course, University of Washington
+* Summer 2017: teaching Python to year 9 students, Go4Code, London
 
 Conference attendance
 ======
@@ -102,13 +97,12 @@ Conference attendance
 
 Internships
 ======
-
-- August to September 2016: Surrey Satellite Technology Ltd. (Guildford, United Kingdom)
-- September 2016: Odgers Berndtson (London, United Kingdom)
-- June to August 2017: Department of Chemistry of UCL (London, United Kingdom)
-- June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
-- August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
 - April 2023 to October 2023: Echion Technologies (Cambridge, United Kingdom)
+- August to September 2018: London Centre for Nanotechnology (London, United Kingdom)
+- June to August 2018: Particle Physics Department of the Rutherford Appleton Laboratory (Didcot, United Kingdom)
+- June to August 2017: Department of Chemistry of UCL (London, United Kingdom)
+- September 2016: Odgers Berndtson (London, United Kingdom)
+- August to September 2016: Surrey Satellite Technology Ltd. (Guildford, United Kingdom)
 
 Reviewing experience
 ======
